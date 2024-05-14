@@ -1,0 +1,293 @@
+\documentclass[12pt, twoside, openright]{report}
+\usepackage[a4paper,left=25mm,right=25mm,top=25mm,bottom=25mm]{geometry}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{natbib}
+\let\OLDthebibliography\thebibliography
+\renewcommand\thebibliography[1]{
+  \OLDthebibliography{#1}
+  \setlength{\parskip}{0pt}
+  \setlength{\itemsep}{0pt plus 0.3ex}
+}
+
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{glossaries}
+\usepackage[utf8]{inputenc}
+\usepackage{aas_macros}
+\usepackage{relsize}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{amssymb}
+\usepackage{bookmark}
+\usepackage[cleardoublepage=plain]{scrextend}
+
+\onehalfspacing
+
+\usepackage[skip=2pt, indent=20pt]{parskip}
+
+\renewcommand{\footnoterule}{%
+  \kern -3pt
+  \hrule width \textwidth height 1pt
+  \kern 2pt
+}
+\interfootnotelinepenalty=10000
+
+\fancyhead[LO]{\nouppercase{\leftmark}}
+\fancyhead[RO]{\nouppercase{\rightmark}}
+\fancyhead[LE]{\nouppercase{Luke R. Holden}}
+\fancyhead[RE]{\nouppercase{Precise diagnostics of AGN-driven outflows}}
+
+\usepackage{xcolor}
+% \definecolor{lrhblue}{HTML}{009DFF}
+\definecolor{lrhdarkblue}{HTML}{004f80}
+% \definecolor{lrhorange}{HTML}{f4a250}
+\definecolor{lrhdarkorange}{HTML}{a8590b}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = True,
+    linkcolor=lrhdarkorange,
+    citecolor=lrhdarkblue,
+    urlcolor=lrhdarkorange,
+}
+
+\usepackage{tocloft}    %%%%
+\cftsetrmarg{5em}       %%%%
+
+\emergencystretch 3em
+
+\widowpenalty10000
+\clubpenalty10000
+
+\begin{document}
+
+\pagenumbering{roman}
+
+\pagestyle{empty}
+
+\cleardoublepage
+\pdfbookmark[section]{Title page}{titlepage}
+\input{chapters/title_page/title_page}
+
+\newpage\null\thispagestyle{empty}\newpage
+
+\input{chapters/title_page/main_quote}
+
+\cleardoublepage
+\pdfbookmark[section]{Acknowledgements}{acknowledgements}
+\chapter*{Acknowledgements}
+\input{chapters/acknowledgements/acknowledgements}
+
+\cleardoublepage
+\pdfbookmark[section]{Declaration}{declaration}
+\chapter*{Declaration}
+\input{chapters/declaration/declaration}
+
+\cleardoublepage
+\pdfbookmark[section]{Thesis summary}{abstract}
+\chapter*{Thesis summary}
+\input{chapters/abstract/abstract}
+
+\cleardoublepage
+\pdfbookmark[section]{Contents}{toc}
+
+{
+    \hypersetup{linkcolor=black}
+    % \large
+    \tableofcontents
+
+    \newpage
+    \listoffigures
+
+    \newpage
+    \listoftables
+}
+
+
+\newpage
+~\newpage
+~\newpage
+
+\pagestyle{fancy}
+\pagenumbering{arabic}
+
+\chapter{Introduction}
+\label{chapter: introduction}
+\vspace*{2cm}
+\vbox{\large``Celestial architects,\\
+the edifice reflects,\\
+reminds us of who we are,\\
+the map to the stars''\\
+
+--- \href{https://xoth.bandcamp.com/album/exogalactic}{Xoth, \textit{Map to the Stars, Monument to the Ancients}}}
+\newpage
+\noindent
+\input{chapters/introduction/introduction}
+
+
+\chapter{Jet-driven warm gas outflows in the Seyfert 2 galaxy IC 5063}
+\chaptermark{Warm gas outflows in IC 5063}
+\label{chapter: xshooter_ic5063}
+
+\vspace*{2cm}
+\vbox{\large``Born under a black sun, \\
+malignant solar tides. \\
+Infinite aeons, merge! Collide! \\
+Spiralling down. \\
+
+\noindent
+Celestial dagger, \\
+terminate galaxies, \\
+pierce through the heart of the void, \\
+storm heaven, \\
+ride, divide and conquer.''\\
+
+--- \href{https://wode.bandcamp.com/album/servants-of-the-countercosmos}{Wode, \textit{Celestial Dagger}}}
+\newpage
+\noindent
+\input{chapters/xshooter_ic5063/xshooter_ic5063}
+
+
+\chapter{Outflow conditions and acceleration mechanisms for the prototypical Seyfert galaxies NGC 1068 and NGC 4151}
+\chaptermark{Outflows in NGC\;1068 {\newline}and NGC\;4151}
+\label{chapter: stis_seyferts}
+
+\vspace*{2cm}
+\vbox{\large``Mortalis!\\
+Caelum!\\
+Viatorem in Aeternum!\\
+Catharsis!\\
+In ignem! \\
+Poena Universi!''\\
+
+
+--- \href{https://aeternam.bandcamp.com/album/al-qassam}{Aeternam, \textit{Poena Universi}}}
+
+\newpage
+\noindent
+\input{chapters/stis_seyferts/stis_seyferts}
+
+\newpage
+\thispagestyle{plain}
+~\newpage
+
+\chapter{A compact cold-molecular outflow in the ULIRG F13451+1232}
+\chaptermark{A compact molecular outflow {\newline}in F13451+1232}
+\label{chapter: alma_f13451_1232}
+
+\vspace*{2cm}
+\vbox{\large``I have seen a vision,\\
+the source undefined,\\
+I find myself immersed in conversation with the sky.''\\
+
+--- \href{https://www.scarsymmetryofficial.com/}{Scar Symmetry, \textit{Scorched Quadrant}}}
+\newpage
+\noindent
+\newpage
+\noindent
+\input{chapters/alma_f13451+1232/alma_f13451_1232}
+
+
+\chapter{No evidence for galaxy-wide warm-ionised outflows in the ULIRG F13451+1232}
+\chaptermark{No galaxy-wide outflows {\newline}in F13451+1232}
+\label{chapter: muse_f13451_1232}
+
+\vspace*{2cm}
+\vbox{\large``Omnipotent force,\\
+unparalleled power,\\
+
+\noindent
+Machination,\\
+fed from the martian spire.''\\
+
+--- \href{https://wallowingnoise.bandcamp.com/album/earth-reaper}{WALLOWING, \textit{EARTH REAPER}}}
+\newpage
+\noindent
+\input{chapters/muse_f13451+1232/muse_f13451_1232}
+
+
+\chapter{Conclusions and future work}
+\label{chapter: conclusions_and_future_work}
+
+\vspace*{2cm}
+\vbox{\large``For broken, now the stayed\\
+are last to toe the line.\\
+To beyond the burning valleys where the eye,\\
+to defy, will only see the sky.''\\
+
+--- \href{https://bellwitch.bandcamp.com/album/stygian-bough-volume-i}{Stygian Bough (Bell Witch \& Aerial Ruin), \textit{The Unbodied Air}}}
+
+\newpage
+\noindent
+\input{chapters/conclusions_and_future_work/conclusions_and_future_work}
+
+\cleardoublepage
+
+\newpage
+\thispagestyle{plain}
+~\newpage
+
+
+\smaller{
+\bibliographystyle{mnras}
+\bibliography{precise_outflow_diagnostics}
+}
+\addtocontents{toc}{\protect\vspace{12pt}}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Bibliography}
+
+\addtocontents{toc}{\protect\vspace{12pt}}
+
+\chapter*{\vspace*{-4cm}Abbreviations used in this work}
+\label{chapter: abbreviations}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Abbreviations used in this work}
+\input{chapters/abbreviations/abbreviations}
+
+\addtocontents{toc}{\protect\vspace{12pt}}
+
+\chapter*{\vspace*{-4cm}Definitions used in this work}
+\label{chapter: definitions}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Definitions used in this work}
+\input{chapters/definitions/definitions}
+
+\newpage
+\thispagestyle{plain}
+~\newpage
+
+\addtocontents{toc}{\protect\vspace{12pt}}
+
+\chapter*{Appendices}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Appendices}
+\vspace*{2cm}
+\vbox{\large``When shadows grow longer,\\
+and the sun sets for the forthcoming night...\\
+
+--- \href{https://empyrium.bandcamp.com/album/where-at-night-the-wood-grouse-plays}{Empyrium, \textit{When Shadows Grow Longer}}}
+
+\newpage
+
+\appendix
+
+\normalsize
+
+\chapter[Photoionisation modelling of the {[}OIII{]}(5007/4363) vs HeII$\lambda$4686/H$\beta$ diagnostic diagram]{The impact of varying photoionisation model parameters on the {[}OIII{]}(5007/4363) vs HeII$\lambda$4686/H$\beta$ diagnostic diagram}
+\label{appendix: heii_hb_oiii_photoionisation_modelling}
+\input{chapters/appendices/heii_hb_oiii_photoionisation_modelling/heii_hb_oiii_photoionisation_modelling}
+
+\chapter{Critical densities and ionisation energies for key diagnostic emission lines}
+\label{appendix: properties_of_warm_ionised_diagnostic_lines}
+\input{chapters/appendices/properties_of_warm_ionised_diagnostic_lines/properties_of_warm_ionised_diagnostic_lines}
+
+\newpage
+\thispagestyle{plain}
+~\newpage
+\thispagestyle{plain}
+~\newpage
+
+\chapter{Modelling the effect of shock-ionisation on the transauroral-line-ratio diagnostic grid}
+\label{appendix: tr_grid_shock_modelling}
+\input{chapters/appendices/tr_grid_shock_modelling/tr_grid_shock_modelling}
+
+
+
+\end{document}

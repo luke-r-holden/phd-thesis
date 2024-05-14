@@ -1,0 +1,32 @@
+Table\;\ref{tab: critical_densities} presents critical densities and ionisation energies for the lines used in the analyses presented in Chapters \ref{chapter: xshooter_ic5063} \ref{chapter: stis_seyferts}, and \ref{chapter: muse_f13451_1232}, calculated using the \textsc{PyNeb Python} module \citep{Luridiana2015} for a gas of temperature $T_\mathrm{e}=15,000$\;K. 
+
+There have previously been concerns that the transauroral lines --- used to derive electron densities and reddenings in Chapters \ref{chapter: xshooter_ic5063} and \ref{chapter: stis_seyferts} --- do not trace the same gas that is emitting other key diagnostic lines such as H$\mathrm{\beta}$ and [OIII]$\lambda\lambda$4959,5007 (see Section \ref{section: introduction: outflows: energetics: electron_densities}; \citealt{Sun2017}; \citealt{Rose2018}; \citealt{Spence2018}). I note that, if the transauroral lines originate from denser clumps of gas within the same cloud complexes as the clouds emitting other lines \citep{Sun2017}, those clumps would also be expected to radiate strongly in H$\mathrm{\beta}$, since the recombination line emissivity scales with $n^2$. Furthermore, I highlight that the transauroral lines have critical densities that are closer to the critical density of the [OIII]$\lambda\lambda$4959,5007 lines than the traditional [SII] and [OII] lines (Table\;\ref{tab: critical_densities}), so they are more likely to trace the [OIII]-emitting clouds than the traditional lines \citep{Rose2018, Spence2018}. Furthermore, the transauroral ratios involve emission lines that arise from transitions within the [OII] ion, which has an ionisation energy that is closer to the ionisation energy of [OIII] than [SII]. This highlights that the transauroral lines are likely better tracers of the [OIII]-emitting gas than the commonly-used [SII](6717/6731) ratio. \\
+
+\begin{table}[ht!]
+    \centering
+    \renewcommand{\arraystretch}{1.2}
+    \begin{tabular}{ccc}
+    Emission line & $n_\mathrm{crit}$ (cm$^{-3}$) & $E_\mathrm{ion}$ (eV) \\ \hline
+        &   &   \\
+    {[}FeVII{]}$\lambda$6087 & 1.9$\times10^7$ & 125.0 \\  
+    {[}FeVII{]}$\lambda$3759 & 3.5$\times10^8$ & 125.0 \\
+    {[}NeV{]}$\lambda$3426 & 1.8$\times10^7$ & 126.2 \\  
+    {[}NeIII{]}$\lambda$3869 & 1.3$\times10^7$  & 63.4 \\
+        &   &   \\
+    {[}OIII{]}$\lambda$4959,5007 & 7.8$\times10^5$ & 54.9 \\
+        &   &   \\
+    \multicolumn{3}{c}{Transauroral  {[}OII{]} and  {[}SII{]} lines} \\
+    {[}OII{]}$\lambda$7320,7331 & 6.9$\times10^6$ & 35.1 \\
+    {[}OII{]}$\lambda$7319,7330 & 4.7$\times10^6$ & 35.1 \\
+    {[}SII{]}$\lambda$4069 & 3.2$\times10^6$ & 23.3 \\
+    {[}SII{]}$\lambda$4076 & 1.6$\times10^6$ & 23.3 \\
+        &   &   \\
+    \multicolumn{3}{c}{Traditional  {[}OII{]} and  {[}SII{]} lines} \\
+    {[}OII{]}$\lambda$3726 & 4.8$\times10^3$ & 35.1 \\
+    {[}OII{]}$\lambda$3729 & 1.4$\times10^3$ & 35.1 \\ 
+    {[}SII{]}$\lambda$6716 & 1.9$\times10^3$ & 23.3 \\
+    {[}SII{]}$\lambda$6731 & 5.1$\times10^3$ & 23.3 \\
+    \end{tabular}
+    \caption[Critical densities and ionisation energies at $T_{e}=15,000$\;K for several key diagnostic lines that trace the warm ionised outflow phase.]{Critical densities and ionisation energies at $T_{e}=15,000$\;K for several key diagnostic lines that trace the warm ionised outflow phase: the [NeV]$\lambda$3426 and [NeIII]$\lambda$3869 lines are used to investigate the presence of matter-bounded gas in Chapter \ref{chapter: stis_seyferts}; the lines in the [FeVII](6087/3759) ratio are used to determine densities for high-ionisation gas in Chapter \ref{chapter: stis_seyferts}; the [OIII]$\lambda$4959,5007 doublet is used for kinematics in Chapters \ref{chapter: xshooter_ic5063}, \ref{chapter: stis_seyferts}, \ref{chapter: muse_f13451_1232}, and the `traditional' [SII](6717/6731) and [SII](3726/3729) density ratios and the transauroral lines are used to derive electron densities and reddenings in Chapters \ref{chapter: xshooter_ic5063}, \ref{chapter: stis_seyferts}, \ref{chapter: muse_f13451_1232}. The \textsc{PyNeb Python} module was used to produce the values in this table.}
+    \label{tab: critical_densities}
+\end{table}
