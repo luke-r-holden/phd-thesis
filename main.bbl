@@ -1307,6 +1307,10 @@ Montgomery D.~C.,  2012, Introduction to linear regression analysis, fifth
 Wiley series in probability and statistics, John Wiley $\&$ Sons Ltd, Hoboken,
   New Jersey
 
+\bibitem[\protect\citeauthoryear{{Morganti}}{{Morganti}}{2017}]{Morganti2017}
+{Morganti} R.,  2017, \mn@doi [Nature Astronomy] {10.1038/s41550-017-0223-0},
+  \href {https://ui.adsabs.harvard.edu/abs/2017NatAs...1..596M} {1, 596}
+
 \bibitem[\protect\citeauthoryear{{Morganti}, {Oosterloo}  \&
   {Tsvetanov}}{{Morganti} et~al.}{1998}]{Morganti1998}
 {Morganti} R.,  {Oosterloo} T.,   {Tsvetanov} Z.,  1998, \mn@doi [ApJ]
