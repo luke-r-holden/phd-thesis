@@ -104,18 +104,18 @@
 \contentsline {section}{\numberline {4.3}Analysis and results}{134}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Moment maps}{134}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}BBarolo modelling of the gas disk}{135}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Kinematics of the non-rotating gas}{137}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Kinematics of the non-rotating gas}{138}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}Comparison to the small-scale radio structure}{138}{subsection.4.3.4}%
 \contentsline {subsection}{\numberline {4.3.5}Channel maps}{141}{subsection.4.3.5}%
 \contentsline {subsection}{\numberline {4.3.6}Potential effects of continuum subtraction}{142}{subsection.4.3.6}%
-\contentsline {subsection}{\numberline {4.3.7}Outflow energetics}{143}{subsection.4.3.7}%
-\contentsline {section}{\numberline {4.4}Discussion}{144}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Interpreting the non-rotating gas as inflowing}{144}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}The spatially-extended, intermediate-velocity gas}{145}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}The compact, high-velocity nuclear outflow}{146}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.3.7}Outflow energetics}{144}{subsection.4.3.7}%
+\contentsline {section}{\numberline {4.4}Discussion}{145}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Interpreting the non-rotating gas as inflowing}{146}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}The spatially-extended, intermediate-velocity gas}{146}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}The compact, high-velocity nuclear outflow}{147}{subsection.4.4.3}%
 \contentsline {section}{\numberline {4.5}Chapter conclusions}{148}{section.4.5}%
 \contentsline {section}{\numberline {}Chapter acknowledgements}{149}{section*.112}%
-\contentsline {section}{\numberline {}Data availability}{149}{section*.113}%
+\contentsline {section}{\numberline {}Data availability}{150}{section*.113}%
 \contentsline {chapter}{\numberline {5}No evidence for galaxy-wide warm-ionised outflows in the ULIRG F13451+1232}{151}{chapter.5}%
 \contentsline {section}{\numberline {}Chapter declaration}{152}{section*.114}%
 \contentsline {section}{\numberline {5.1}Chapter introduction}{153}{section.5.1}%
