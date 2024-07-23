@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1721744665 "main.aux" "main.bbl" "main" 1721744698 0
+["bibtex main"] 1721748595 "main.aux" "main.bbl" "main" 1721748673 0
   "./precise_outflow_diagnostics.bib" 1721735027 396537 aeb62f47a3d4a845f6761d5b55a713ab ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/mnras/mnras.bst" 1593726342 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "main.aux" 1721744698 221522 230062803cdbf3d765de0263d1eb6308 "pdflatex"
+  "main.aux" 1721748673 221522 2b6375edddcb2d85eac5b52d13ecadb7 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1721744692 "main.tex" "main.pdf" "main" 1721744698 0
+["pdflatex"] 1721748667 "main.tex" "main.pdf" "main" 1721748673 0
   "/etc/texmf/web2c/texmf.cnf" 1715548226 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -186,10 +186,10 @@
   "chapters/definitions/definitions.tex" 1714486708 3795 2384ec462d6b629f078c820130a92882 ""
   "chapters/introduction/introduction.tex" 1721735890 99916 b8e26fe238434e6e495ce423e786071c ""
   "chapters/muse_f13451+1232/muse_f13451_1232.tex" 1714486708 99390 2ec178d7713060959b25f45217a8a0d6 ""
-  "chapters/stis_seyferts/stis_seyferts.tex" 1714486708 105548 1b651a7c79892029d5566737d8b681aa ""
+  "chapters/stis_seyferts/stis_seyferts.tex" 1721748666 106010 f089502e56d89782238e0c3bda876622 ""
   "chapters/title_page/main_quote.tex" 1714486708 331 c4ad15e85bc716d1fbf5f59bc856d423 ""
   "chapters/title_page/title_page.tex" 1714486708 611 d03eaab14c4a6c85e53fab917f75de21 ""
-  "chapters/xshooter_ic5063/xshooter_ic5063.tex" 1721744692 137215 25a23a7156ac0357dacf69a6364b424a ""
+  "chapters/xshooter_ic5063/xshooter_ic5063.tex" 1721744876 137215 25a23a7156ac0357dacf69a6364b424a ""
   "figures/alma_f13451_1232/beam_comparison.pdf" 1714486714 17491 05f3d034334477369046fb3667db535f ""
   "figures/alma_f13451_1232/channel_maps.pdf" 1714486714 52198 ab82a85579c7eabd42fb7726f11ed174 ""
   "figures/alma_f13451_1232/disk_moment_maps.pdf" 1714486714 73327 bec454db579db761f4dfd96858d541a5 ""
@@ -294,12 +294,12 @@
   "figures/xshooter_ic5063/tr_balmer_reddening.pdf" 1714486710 10885 372b577dc2630ce440162ffedb54b61c ""
   "figures/xshooter_ic5063/vmin_vmax.png" 1714486710 406994 afd6537ce0cee8c89339fccf4f42b3fb ""
   "figures/xshooter_ic5063/vmin_widths.pdf" 1714486710 15540 d68011cc36a94030177c89b323d5c5e3 ""
-  "main.aux" 1721744698 221522 230062803cdbf3d765de0263d1eb6308 "pdflatex"
-  "main.bbl" 1721744665 120452 b014dd5f0fa400a850ffac9bfd67a3df "bibtex main"
-  "main.lof" 1721744698 15226 c93b57e13f7966ab5cbbe6659e8c03d4 "pdflatex"
-  "main.lot" 1721744698 5976 a5e040a65bf53fdf228557f820f985ed "pdflatex"
+  "main.aux" 1721748673 221522 2b6375edddcb2d85eac5b52d13ecadb7 "pdflatex"
+  "main.bbl" 1721748595 120452 b014dd5f0fa400a850ffac9bfd67a3df "bibtex main"
+  "main.lof" 1721748673 15226 359b31fe58a81e2688666ff679772333 "pdflatex"
+  "main.lot" 1721748673 5976 17220607fd4e564605ca5a69eda2fed1 "pdflatex"
   "main.tex" 1715874372 7583 6e390654ade355885fcaf13a71e8f0c5 ""
-  "main.toc" 1721744698 16696 3a7ded3e305fb22cb279e80a69a9db1f "pdflatex"
+  "main.toc" 1721748673 16696 7f96c47920dd6067df0f672422f7797f "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

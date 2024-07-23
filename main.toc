@@ -85,11 +85,11 @@
 \contentsline {subsubsection}{Mass outflow rates, kinetic powers, and coupling efficiencies}{112}{section*.91}%
 \contentsline {section}{\numberline {3.4}Discussion}{114}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}The outflow ionisation and acceleration mechanisms in the NLRs of NGC 1068 and NGC 4151}{114}{subsection.3.4.1}%
-\contentsline {subsubsection}{Matter-bounded ionisation and the acceleration mechanism in NGC 1068}{114}{section*.93}%
+\contentsline {subsubsection}{Matter-bounded ionisation and the acceleration mechanism in NGC 1068}{115}{section*.93}%
 \contentsline {subsubsection}{Shock-ionisation and acceleration in NGC 4151}{116}{section*.94}%
-\contentsline {subsection}{\numberline {3.4.2}The effect of ionisation mechanisms on density diagnostics}{116}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.2}The effect of ionisation mechanisms on density diagnostics}{117}{subsection.3.4.2}%
 \contentsline {subsubsection}{The impact of matter-bounded photoionisation}{117}{section*.95}%
-\contentsline {subsubsection}{The impact of shock-ionisation}{117}{section*.96}%
+\contentsline {subsubsection}{The impact of shock-ionisation}{118}{section*.96}%
 \contentsline {subsubsection}{The origin of the transauroral lines in NGC 1068, NGC 4151 and IC 5063}{119}{section*.97}%
 \contentsline {subsection}{\numberline {3.4.3}Comparison of the transauroral-line-derived electron densities to other techniques}{120}{subsection.3.4.3}%
 \contentsline {subsection}{\numberline {3.4.4}The impact of the outflowing gas on the host galaxies}{121}{subsection.3.4.4}%
