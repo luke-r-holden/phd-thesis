@@ -2,50 +2,50 @@ This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 16043 items from 5000.
+Reallocated field_info (elt_size=4) to 16097 items from 5000.
 Database file #1: precise_outflow_diagnostics.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 409 entries,
+You've used 411 entries,
             2881 wiz_defined-function locations,
-            4192 strings with 150889 characters,
-and the built_in function-call counts, 197016 in all, are:
-= -- 15981
-> -- 14634
-< -- 956
-+ -- 6198
-- -- 2308
-* -- 25220
-:= -- 30976
+            4208 strings with 151389 characters,
+and the built_in function-call counts, 198036 in all, are:
+= -- 16057
+> -- 14721
+< -- 960
++ -- 6233
+- -- 2324
+* -- 25351
+:= -- 31143
 add.period$ -- 0
-call.type$ -- 409
-change.case$ -- 819
-chr.to.int$ -- 394
-cite$ -- 409
-duplicate$ -- 9317
-empty$ -- 9264
-format.name$ -- 3594
-if$ -- 33845
+call.type$ -- 411
+change.case$ -- 823
+chr.to.int$ -- 396
+cite$ -- 411
+duplicate$ -- 9363
+empty$ -- 9308
+format.name$ -- 3614
+if$ -- 34017
 int.to.chr$ -- 16
 int.to.str$ -- 0
-missing$ -- 408
-newline$ -- 1244
-num.names$ -- 2862
-pop$ -- 1781
+missing$ -- 410
+newline$ -- 1250
+num.names$ -- 2878
+pop$ -- 1789
 preamble$ -- 2
-purify$ -- 1636
+purify$ -- 1644
 quote$ -- 0
-skip$ -- 5676
+skip$ -- 5704
 stack$ -- 0
-substring$ -- 11139
-swap$ -- 5376
-text.length$ -- 1661
+substring$ -- 11189
+swap$ -- 5408
+text.length$ -- 1669
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3672
+type$ -- 3690
 warning$ -- 0
-while$ -- 3101
+while$ -- 3117
 width$ -- 0
-write$ -- 4118
+write$ -- 4138
