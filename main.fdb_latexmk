@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1721733922 "main.aux" "main.bbl" "main" 1721734747 0
-  "./precise_outflow_diagnostics.bib" 1721728895 395808 cb5c99dd049562cd27b98449e5bae0e6 ""
+["bibtex main"] 1721735196 "main.aux" "main.bbl" "main" 1721735897 0
+  "./precise_outflow_diagnostics.bib" 1721735027 396537 aeb62f47a3d4a845f6761d5b55a713ab ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/mnras/mnras.bst" 1593726342 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "main.aux" 1721734747 221331 300d87d82d307f50ab5a097a95b07b22 "pdflatex"
+  "main.aux" 1721735897 221451 311fe4c64de5c0f2ead686f6e369b6a6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1721734741 "main.tex" "main.pdf" "main" 1721734747 0
+["pdflatex"] 1721735891 "main.tex" "main.pdf" "main" 1721735897 0
   "/etc/texmf/web2c/texmf.cnf" 1715548226 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -184,7 +184,7 @@
   "chapters/conclusions_and_future_work/conclusions_and_future_work.tex" 1714486708 41125 61d39de9b426133c49a20077d60ff67d ""
   "chapters/declaration/declaration.tex" 1714486708 941 8705218b90f29cb2d55f82877ef5033c ""
   "chapters/definitions/definitions.tex" 1714486708 3795 2384ec462d6b629f078c820130a92882 ""
-  "chapters/introduction/introduction.tex" 1721734740 99882 5716b8b0e3623abd6b62e3491eaf0d82 ""
+  "chapters/introduction/introduction.tex" 1721735890 99916 b8e26fe238434e6e495ce423e786071c ""
   "chapters/muse_f13451+1232/muse_f13451_1232.tex" 1714486708 99390 2ec178d7713060959b25f45217a8a0d6 ""
   "chapters/stis_seyferts/stis_seyferts.tex" 1714486708 105548 1b651a7c79892029d5566737d8b681aa ""
   "chapters/title_page/main_quote.tex" 1714486708 331 c4ad15e85bc716d1fbf5f59bc856d423 ""
@@ -294,12 +294,12 @@
   "figures/xshooter_ic5063/tr_balmer_reddening.pdf" 1714486710 10885 372b577dc2630ce440162ffedb54b61c ""
   "figures/xshooter_ic5063/vmin_vmax.png" 1714486710 406994 afd6537ce0cee8c89339fccf4f42b3fb ""
   "figures/xshooter_ic5063/vmin_widths.pdf" 1714486710 15540 d68011cc36a94030177c89b323d5c5e3 ""
-  "main.aux" 1721734747 221331 300d87d82d307f50ab5a097a95b07b22 "pdflatex"
-  "main.bbl" 1721733922 120188 e9d30b4fd68102fbadc9fd7a3b925cf9 "bibtex main"
-  "main.lof" 1721734747 15226 2c2cadeae20d9fe30c7071a4beb936b4 "pdflatex"
-  "main.lot" 1721734747 5976 075382026d2fe199895b0a782fe70434 "pdflatex"
+  "main.aux" 1721735897 221451 311fe4c64de5c0f2ead686f6e369b6a6 "pdflatex"
+  "main.bbl" 1721735196 120452 b014dd5f0fa400a850ffac9bfd67a3df "bibtex main"
+  "main.lof" 1721735897 15226 2c2cadeae20d9fe30c7071a4beb936b4 "pdflatex"
+  "main.lot" 1721735897 5976 075382026d2fe199895b0a782fe70434 "pdflatex"
   "main.tex" 1715874372 7583 6e390654ade355885fcaf13a71e8f0c5 ""
-  "main.toc" 1721734747 16696 36ea5b24718e790307854439fde0d6ec "pdflatex"
+  "main.toc" 1721735897 16696 36ea5b24718e790307854439fde0d6ec "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
