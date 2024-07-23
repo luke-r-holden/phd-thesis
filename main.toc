@@ -31,36 +31,36 @@
 \contentsline {section}{\numberline {2.2}Observations and data reduction}{42}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Xshooter observations of IC 5063}{42}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Seeing estimates}{44}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Reduction of the Xshooter data}{44}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Reduction of the Xshooter data}{45}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Aperture selection and extraction}{45}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Stellar continua modelling and subtraction}{47}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Emission-line fitting}{49}{subsection.2.2.6}%
-\contentsline {section}{\numberline {2.3}Properties of the outflowing gas}{53}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Analysis of the UVB+VIS apertures}{53}{subsection.2.3.1}%
-\contentsline {subsubsection}{Velocity shifts and widths}{53}{section*.37}%
-\contentsline {subsubsection}{Spatial distributions and kinematics of optical diagnostic lines}{56}{section*.41}%
-\contentsline {subsubsection}{Transauroral-line diagnostics}{58}{section*.44}%
-\contentsline {subsubsection}{Traditional-line-ratio electron densities}{63}{section*.48}%
-\contentsline {subsubsection}{Recombination-line reddenings}{64}{section*.49}%
-\contentsline {subsubsection}{Electron temperatures and gas ionisation mechanisms}{64}{section*.51}%
-\contentsline {subsubsection}{Mass outflow rates and kinetic powers}{67}{section*.54}%
-\contentsline {subsection}{\numberline {2.3.2}Analysis of the NIR apertures}{71}{subsection.2.3.2}%
-\contentsline {subsubsection}{The warm molecular gas phase}{71}{section*.57}%
-\contentsline {subsubsection}{Ionisation and excitation of the near-infrared [FeII], Pa$\mathrm {\beta }$ and H$_2$ lines}{71}{section*.59}%
-\contentsline {section}{\numberline {2.4}Discussion}{75}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Placing the warm-ionised outflows at the NW lobe in a multi-phase context}{75}{subsection.2.4.1}%
-\contentsline {subsubsection}{Kinematics of the different gas phases}{75}{section*.62}%
-\contentsline {subsubsection}{Energetics of the multi-phase outflows}{78}{section*.65}%
+\contentsline {subsection}{\numberline {2.2.6}Emission-line fitting}{50}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Properties of the outflowing gas}{54}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Analysis of the UVB+VIS apertures}{54}{subsection.2.3.1}%
+\contentsline {subsubsection}{Velocity shifts and widths}{54}{section*.37}%
+\contentsline {subsubsection}{Spatial distributions and kinematics of optical diagnostic lines}{57}{section*.41}%
+\contentsline {subsubsection}{Transauroral-line diagnostics}{59}{section*.44}%
+\contentsline {subsubsection}{Traditional-line-ratio electron densities}{64}{section*.48}%
+\contentsline {subsubsection}{Recombination-line reddenings}{65}{section*.49}%
+\contentsline {subsubsection}{Electron temperatures and gas ionisation mechanisms}{65}{section*.51}%
+\contentsline {subsubsection}{Mass outflow rates and kinetic powers}{68}{section*.54}%
+\contentsline {subsection}{\numberline {2.3.2}Analysis of the NIR apertures}{72}{subsection.2.3.2}%
+\contentsline {subsubsection}{The warm molecular gas phase}{72}{section*.57}%
+\contentsline {subsubsection}{Ionisation and excitation of the near-infrared [FeII], Pa$\mathrm {\beta }$ and H$_2$ lines}{72}{section*.59}%
+\contentsline {section}{\numberline {2.4}Discussion}{76}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Placing the warm-ionised outflows at the NW lobe in a multi-phase context}{76}{subsection.2.4.1}%
+\contentsline {subsubsection}{Kinematics of the different gas phases}{76}{section*.62}%
+\contentsline {subsubsection}{Energetics of the multi-phase outflows}{79}{section*.65}%
 \contentsline {subsection}{\numberline {2.4.2}Outflow acceleration and ionisation/excitation mechanisms in IC 5063}{82}{subsection.2.4.2}%
 \contentsline {subsubsection}{Ionisation and excitation of the warm gas}{82}{section*.67}%
 \contentsline {subsubsection}{The physical relation between the different gas phases}{82}{section*.68}%
-\contentsline {subsubsection}{Comparison to theoretical predictions of the dominant ionisation mechanism}{84}{section*.72}%
-\contentsline {subsubsection}{Compression effects of the jet-induced shocks}{85}{section*.73}%
-\contentsline {subsubsection}{The nature of the blueshifted narrow [OIII] component seen in Aperture 3}{86}{section*.74}%
-\contentsline {subsection}{\numberline {2.4.3}The use of transauroral-line diagnostics in AGN-driven outflows}{87}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Chapter conclusions}{88}{section.2.5}%
-\contentsline {section}{\numberline {}Chapter acknowledgements}{89}{section*.75}%
-\contentsline {section}{\numberline {}Data availability}{89}{section*.76}%
+\contentsline {subsubsection}{Comparison to theoretical predictions of the dominant ionisation mechanism}{85}{section*.72}%
+\contentsline {subsubsection}{Compression effects of the jet-induced shocks}{86}{section*.73}%
+\contentsline {subsubsection}{The nature of the blueshifted narrow [OIII] component seen in Aperture 3}{87}{section*.74}%
+\contentsline {subsection}{\numberline {2.4.3}The use of transauroral-line diagnostics in AGN-driven outflows}{88}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Chapter conclusions}{89}{section.2.5}%
+\contentsline {section}{\numberline {}Chapter acknowledgements}{90}{section*.75}%
+\contentsline {section}{\numberline {}Data availability}{90}{section*.76}%
 \contentsline {chapter}{\numberline {3}Outflow conditions and acceleration mechanisms for the prototypical Seyfert galaxies NGC 1068 and NGC 4151}{91}{chapter.3}%
 \contentsline {section}{\hbox to\@tempdima {\hfil }Chapter declaration}{92}{section*.77}%
 \contentsline {section}{\numberline {3.1}Chapter introduction}{93}{section.3.1}%
