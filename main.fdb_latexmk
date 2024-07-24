@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1721814640.05739 "main.aux" "main.bbl" "main" 1721814730.92827 0
+["bibtex main"] 1721816046.4515 "main.aux" "main.bbl" "main" 1721816046.51332 2
   "./precise_outflow_diagnostics.bib" 1721814608.61308 397537 3d193bba7261661d95c4bb9eeedcfd34 ""
   "/usr/share/texmf-dist/bibtex/bst/mnras/mnras.bst" 1716849630 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "main.aux" 1721814730.53711 221231 df61190472acb37e7d0fafc86d4df294 "pdflatex"
+  "main.aux" 1721816045.917 143360 adf2e7b7cf9d43eb3e7963c2cc179671 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1721814722.22468 "main.tex" "main.pdf" "main" 1721814730.92872 0
+["pdflatex"] 1721814722.22468 "main.tex" "main.pdf" "main" 1721816046.51345 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -290,12 +290,12 @@
   "figures/xshooter_ic5063/tr_balmer_reddening.pdf" 1716216165.95709 10885 372b577dc2630ce440162ffedb54b61c ""
   "figures/xshooter_ic5063/vmin_vmax.png" 1716216165.98909 406994 afd6537ce0cee8c89339fccf4f42b3fb ""
   "figures/xshooter_ic5063/vmin_widths.pdf" 1716216165.98909 15540 d68011cc36a94030177c89b323d5c5e3 ""
-  "main.aux" 1721814730.53711 221231 df61190472acb37e7d0fafc86d4df294 "pdflatex"
-  "main.bbl" 1721814640.12326 118947 f92544cc7593e68f243e578eb4fdc94e "bibtex main"
-  "main.lof" 1721814730.56044 15226 a439bda35d912dc6aa00e5a9e0a56202 "pdflatex"
-  "main.lot" 1721814730.56044 5969 7f1eeca1a057c4fda65d4d3c6d30a315 "pdflatex"
+  "main.aux" 1721816045.917 143360 adf2e7b7cf9d43eb3e7963c2cc179671 "pdflatex"
+  "main.bbl" 1721816046.507 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
+  "main.lof" 1721816040.1803 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.lot" 1721816040.18364 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1716216166.92109 7583 6e390654ade355885fcaf13a71e8f0c5 ""
-  "main.toc" 1721814730.56044 16696 e3efab0c5ba33f5344bc7be9db2b5d84 "pdflatex"
+  "main.toc" 1721816040.16364 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
