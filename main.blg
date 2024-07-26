@@ -1,51 +1,51 @@
-This is BibTeX, Version 0.99d (TeX Live 2024/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=8) to 16205 items from 5000.
+Reallocated field_info (elt_size=4) to 16232 items from 5000.
 Database file #1: precise_outflow_diagnostics.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-You've used 415 entries,
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 416 entries,
             2881 wiz_defined-function locations,
-            4240 strings with 152527 characters,
-and the built_in function-call counts, 199942 in all, are:
-= -- 16219
-> -- 14857
-< -- 970
-+ -- 6293
-- -- 2344
-* -- 25599
-:= -- 31441
+            4248 strings with 152722 characters,
+and the built_in function-call counts, 200433 in all, are:
+= -- 16259
+> -- 14894
+< -- 972
++ -- 6309
+- -- 2350
+* -- 25661
+:= -- 31519
 add.period$ -- 0
-call.type$ -- 415
-change.case$ -- 831
+call.type$ -- 416
+change.case$ -- 833
 chr.to.int$ -- 400
-cite$ -- 415
-duplicate$ -- 9451
-empty$ -- 9396
-format.name$ -- 3648
-if$ -- 34343
-int.to.chr$ -- 16
+cite$ -- 416
+duplicate$ -- 9474
+empty$ -- 9418
+format.name$ -- 3656
+if$ -- 34427
+int.to.chr$ -- 17
 int.to.str$ -- 0
-missing$ -- 414
-newline$ -- 1262
-num.names$ -- 2904
-pop$ -- 1806
+missing$ -- 415
+newline$ -- 1265
+num.names$ -- 2912
+pop$ -- 1810
 preamble$ -- 2
-purify$ -- 1660
+purify$ -- 1664
 quote$ -- 0
-skip$ -- 5757
+skip$ -- 5770
 stack$ -- 0
-substring$ -- 11309
-swap$ -- 5454
-text.length$ -- 1685
+substring$ -- 11337
+swap$ -- 5470
+text.length$ -- 1689
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3726
+type$ -- 3735
 warning$ -- 0
-while$ -- 3147
+while$ -- 3155
 width$ -- 0
-write$ -- 4178
+write$ -- 4188

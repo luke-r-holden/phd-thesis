@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {1.2.3}Comparisons to models of galaxy evolution}{24}{subsection.1.2.3}%
 \contentsline {subsection}{\numberline {1.2.4}Outflow acceleration mechanisms}{25}{subsection.1.2.4}%
 \contentsline {subsubsection}{Radiatively-driven outflows}{25}{section*.20}%
-\contentsline {subsubsection}{Jet-driven outflows}{27}{section*.22}%
+\contentsline {subsubsection}{Jet-driven outflows}{26}{section*.22}%
 \contentsline {subsubsection}{Ionisation and excitation mechanisms as probes of acceleration}{29}{section*.24}%
 \contentsline {subsubsection}{Photo- and shock-ionisation modelling}{31}{section*.26}%
 \contentsline {subsubsection}{Uncertainties regarding outflow acceleration mechanisms}{33}{section*.27}%
