@@ -36,135 +36,135 @@
 \contentsline {subsection}{\numberline {2.2.4}Aperture selection and extraction}{47}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Stellar continua modelling and subtraction}{49}{subsection.2.2.5}%
 \contentsline {subsection}{\numberline {2.2.6}Emission-line fitting}{52}{subsection.2.2.6}%
-\contentsline {section}{\numberline {2.3}Properties of the outflowing gas}{56}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Analysis of the UVB+VIS apertures}{56}{subsection.2.3.1}%
-\contentsline {subsubsection}{Velocity shifts and widths}{56}{section*.38}%
-\contentsline {subsubsection}{Spatial distributions and kinematics of optical diagnostic lines}{59}{section*.42}%
-\contentsline {subsubsection}{Transauroral-line diagnostics}{61}{section*.45}%
-\contentsline {subsubsection}{Traditional-line-ratio electron densities}{66}{section*.49}%
-\contentsline {subsubsection}{Recombination-line reddenings}{67}{section*.50}%
-\contentsline {subsubsection}{Electron temperatures and gas ionisation mechanisms}{67}{section*.52}%
-\contentsline {subsubsection}{Mass outflow rates and kinetic powers}{70}{section*.55}%
-\contentsline {subsection}{\numberline {2.3.2}Analysis of the NIR apertures}{74}{subsection.2.3.2}%
-\contentsline {subsubsection}{The warm molecular gas phase}{74}{section*.58}%
-\contentsline {subsubsection}{Ionisation and excitation of the near-infrared [FeII], Pa$\mathrm {\beta }$ and H$_2$ lines}{74}{section*.60}%
-\contentsline {section}{\numberline {2.4}Discussion}{78}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Placing the warm-ionised outflows at the NW lobe in a multi-phase context}{78}{subsection.2.4.1}%
-\contentsline {subsubsection}{Kinematics of the different gas phases}{78}{section*.63}%
-\contentsline {subsubsection}{Energetics of the multi-phase outflows}{81}{section*.66}%
-\contentsline {subsection}{\numberline {2.4.2}Outflow acceleration and ionisation/excitation mechanisms in IC 5063}{84}{subsection.2.4.2}%
-\contentsline {subsubsection}{Ionisation and excitation of the warm gas}{84}{section*.68}%
-\contentsline {subsubsection}{The physical relation between the different gas phases}{84}{section*.69}%
-\contentsline {subsubsection}{Comparison to theoretical predictions of the dominant ionisation mechanism}{87}{section*.73}%
-\contentsline {subsubsection}{Compression effects of the jet-induced shocks}{88}{section*.74}%
-\contentsline {subsubsection}{The nature of the blueshifted narrow [OIII] component seen in Aperture 3}{89}{section*.75}%
-\contentsline {subsection}{\numberline {2.4.3}The use of transauroral-line diagnostics in AGN-driven outflows}{90}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Chapter conclusions}{91}{section.2.5}%
-\contentsline {section}{\numberline {}Chapter acknowledgements}{92}{section*.76}%
-\contentsline {section}{\numberline {}Data availability}{92}{section*.77}%
-\contentsline {chapter}{\numberline {3}Outflow conditions and acceleration mechanisms for the prototypical Seyfert galaxies NGC 1068 and NGC 4151}{93}{chapter.3}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Chapter declaration}{94}{section*.78}%
-\contentsline {section}{\numberline {3.1}Chapter introduction}{95}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}NGC 1068}{96}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}NGC 4151}{97}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Previous photoionisation modelling of NGC 1068 and NGC 4151}{98}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}Observations and data reduction}{98}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Archival HST/STIS observations}{98}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Reduction of STIS data}{99}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Aperture selection and extraction}{100}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}The contribution of stellar continua to the spectra}{101}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Fits to key emission lines}{102}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3.3}Analysis of the STIS spectra}{104}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Transauroral-line diagnostics}{104}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Ionisation states and mechanisms of the warm-ionised gas}{107}{subsection.3.3.2}%
-\contentsline {subsubsection}{Electron temperatures}{107}{section*.85}%
-\contentsline {subsubsection}{Shock-ionisation vs matter-bounded AGN-photoionisation}{107}{section*.86}%
-\contentsline {subsubsection}{The viability of shock-ionisation}{111}{section*.89}%
-\contentsline {subsection}{\numberline {3.3.3}Electron densities of the high-ionisation gas in NGC 1068}{112}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Energetics of the outflowing gas}{114}{subsection.3.3.4}%
-\contentsline {subsubsection}{Outflow kinematics}{114}{section*.91}%
-\contentsline {subsubsection}{Mass outflow rates, kinetic powers, and coupling efficiencies}{114}{section*.92}%
-\contentsline {section}{\numberline {3.4}Discussion}{116}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}The outflow ionisation and acceleration mechanisms in the NLRs of NGC 1068 and NGC 4151}{116}{subsection.3.4.1}%
-\contentsline {subsubsection}{Matter-bounded ionisation and the acceleration mechanism in NGC 1068}{117}{section*.94}%
-\contentsline {subsubsection}{Shock-ionisation and acceleration in NGC 4151}{118}{section*.95}%
-\contentsline {subsection}{\numberline {3.4.2}The effect of ionisation mechanisms on density diagnostics}{119}{subsection.3.4.2}%
-\contentsline {subsubsection}{The impact of matter-bounded photoionisation}{119}{section*.96}%
-\contentsline {subsubsection}{The impact of shock-ionisation}{120}{section*.97}%
-\contentsline {subsubsection}{The origin of the transauroral lines in NGC 1068, NGC 4151 and IC 5063}{121}{section*.98}%
-\contentsline {subsection}{\numberline {3.4.3}Comparison of the transauroral-line-derived electron densities to other techniques}{122}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}The impact of the outflowing gas on the host galaxies}{123}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}A tale of three Seyferts: NGC 1068, NGC 4151 and IC 5063}{124}{subsection.3.4.5}%
-\contentsline {section}{\numberline {3.5}Chapter conclusions}{127}{section.3.5}%
-\contentsline {section}{\numberline {}Chapter acknowledgements}{128}{section*.102}%
-\contentsline {section}{\numberline {}Data availability}{128}{section*.103}%
-\contentsline {chapter}{\numberline {4}A compact cold-molecular outflow in the ULIRG F13451+1232}{131}{chapter.4}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Chapter declaration}{132}{section*.104}%
-\contentsline {section}{\numberline {4.1}Introduction}{133}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Observations and data reduction}{134}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Analysis and results}{136}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Moment maps}{136}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}BBarolo modelling of the gas disk}{137}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Kinematics of the non-rotating gas}{140}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Comparison to the small-scale radio structure}{140}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Channel maps}{143}{subsection.4.3.5}%
-\contentsline {subsection}{\numberline {4.3.6}Potential effects of continuum subtraction}{144}{subsection.4.3.6}%
-\contentsline {subsection}{\numberline {4.3.7}Outflow energetics}{146}{subsection.4.3.7}%
-\contentsline {section}{\numberline {4.4}Discussion}{147}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Interpreting the non-rotating gas as inflowing}{148}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}The spatially-extended, intermediate-velocity gas}{148}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}The compact, high-velocity nuclear outflow}{149}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Chapter conclusions}{150}{section.4.5}%
-\contentsline {section}{\numberline {}Chapter acknowledgements}{151}{section*.113}%
-\contentsline {section}{\numberline {}Data availability}{152}{section*.114}%
-\contentsline {chapter}{\numberline {5}No evidence for galaxy-wide warm-ionised outflows in the ULIRG F13451+1232}{153}{chapter.5}%
-\contentsline {section}{\numberline {}Chapter declaration}{154}{section*.115}%
-\contentsline {section}{\numberline {5.1}Chapter introduction}{155}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Observations and data reduction}{157}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Archival VLT/MUSE-DEEP data}{157}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Further reduction of MUSE-DEEP data}{157}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Seeing estimates}{158}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Analysis and results}{158}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}A Bayesian emission-line fitting routine}{158}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}The effect of atmospheric seeing on outflow extents and kinematics}{161}{subsection.5.3.2}%
-\contentsline {subsubsection}{Nuclear aperture extraction and modelling}{161}{section*.117}%
-\contentsline {subsubsection}{Emission-line fits of the extended emission}{162}{section*.118}%
-\contentsline {subsubsection}{Beam smearing of compact outflow emission}{163}{section*.121}%
-\contentsline {subsubsection}{Accounting for atmospheric seeing in velocity maps}{166}{section*.125}%
-\contentsline {subsection}{\numberline {5.3.3}Energetics of the extended warm-ionised emission}{169}{subsection.5.3.3}%
-\contentsline {subsubsection}{Aperture extraction from the MUSE-DEEP datacube}{169}{section*.127}%
-\contentsline {subsubsection}{Aperture emission-line fits}{171}{section*.129}%
-\contentsline {subsubsection}{Kinematics, physical conditions, and energetics of the extended emission}{177}{section*.135}%
-\contentsline {subsubsection}{The potential impact of underlying stellar continua}{181}{section*.138}%
-\contentsline {section}{\numberline {5.4}Discussion}{181}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Comparison to models of galaxy evolution}{181}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Comparison to previous observational studies}{182}{subsection.5.4.2}%
-\contentsline {subsubsection}{The scenario for the outflows in F13451+1232}{182}{section*.139}%
-\contentsline {subsubsection}{AGN-driven outflow spatial extents measured by other methods}{183}{section*.140}%
-\contentsline {subsection}{\numberline {5.4.3}The impact of beam-smearing on outflow spatial extents and kinematics}{184}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}The impact of beam-smearing on mass outflow rates and kinetic powers}{185}{subsection.5.4.4}%
-\contentsline {section}{\numberline {5.5}Chapter conclusions}{186}{section.5.5}%
-\contentsline {section}{\numberline {}Chapter acknowledgements}{187}{section*.141}%
-\contentsline {section}{\numberline {}Data availability}{187}{section*.142}%
-\contentsline {chapter}{\numberline {6}Conclusions and future work}{189}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Thesis conclusions}{190}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Which outflow phase(s) is dominant in terms of energetics, and how are the different phases physically linked?}{190}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}What are the true electron densities of the warm ionised outflow phase, and what is the impact on outflow masses and kinetic powers?}{193}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}What are the spatial extents of AGN-driven outflows?}{195}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}How do AGN accelerate outflows?}{196}{subsection.6.1.4}%
-\contentsline {section}{\numberline {6.2}Future work}{198}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Detailed studies of active galaxies}{198}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Statistical studies of precise outflow properties}{200}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Improved comparisons between observational and theoretical work}{201}{subsection.6.2.3}%
-\contentsline {section}{\numberline {}Chapter acknowledgements}{202}{section*.143}%
+\contentsline {section}{\numberline {2.3}Properties of the outflowing gas}{57}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Analysis of the UVB+VIS apertures}{57}{subsection.2.3.1}%
+\contentsline {subsubsection}{Velocity shifts and widths}{57}{section*.38}%
+\contentsline {subsubsection}{Spatial distributions and kinematics of optical diagnostic lines}{60}{section*.42}%
+\contentsline {subsubsection}{Transauroral-line diagnostics}{62}{section*.45}%
+\contentsline {subsubsection}{Traditional-line-ratio electron densities}{67}{section*.49}%
+\contentsline {subsubsection}{Recombination-line reddenings}{68}{section*.50}%
+\contentsline {subsubsection}{Electron temperatures and gas ionisation mechanisms}{68}{section*.52}%
+\contentsline {subsubsection}{Mass outflow rates and kinetic powers}{71}{section*.55}%
+\contentsline {subsection}{\numberline {2.3.2}Analysis of the NIR apertures}{75}{subsection.2.3.2}%
+\contentsline {subsubsection}{The warm molecular gas phase}{75}{section*.58}%
+\contentsline {subsubsection}{Ionisation and excitation of the near-infrared [FeII], Pa$\mathrm {\beta }$ and H$_2$ lines}{75}{section*.60}%
+\contentsline {section}{\numberline {2.4}Discussion}{79}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Placing the warm-ionised outflows at the NW lobe in a multi-phase context}{79}{subsection.2.4.1}%
+\contentsline {subsubsection}{Kinematics of the different gas phases}{79}{section*.63}%
+\contentsline {subsubsection}{Energetics of the multi-phase outflows}{82}{section*.66}%
+\contentsline {subsection}{\numberline {2.4.2}Outflow acceleration and ionisation/excitation mechanisms in IC 5063}{85}{subsection.2.4.2}%
+\contentsline {subsubsection}{Ionisation and excitation of the warm gas}{85}{section*.68}%
+\contentsline {subsubsection}{The physical relation between the different gas phases}{85}{section*.69}%
+\contentsline {subsubsection}{Comparison to theoretical predictions of the dominant ionisation mechanism}{88}{section*.73}%
+\contentsline {subsubsection}{Compression effects of the jet-induced shocks}{89}{section*.74}%
+\contentsline {subsubsection}{The nature of the blueshifted narrow [OIII] component seen in Aperture 3}{90}{section*.75}%
+\contentsline {subsection}{\numberline {2.4.3}The use of transauroral-line diagnostics in AGN-driven outflows}{91}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Chapter conclusions}{92}{section.2.5}%
+\contentsline {section}{\numberline {}Chapter acknowledgements}{93}{section*.76}%
+\contentsline {section}{\numberline {}Data availability}{93}{section*.77}%
+\contentsline {chapter}{\numberline {3}Outflow conditions and acceleration mechanisms for the prototypical Seyfert galaxies NGC 1068 and NGC 4151}{95}{chapter.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Chapter declaration}{96}{section*.78}%
+\contentsline {section}{\numberline {3.1}Chapter introduction}{97}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}NGC 1068}{98}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}NGC 4151}{99}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Previous photoionisation modelling of NGC 1068 and NGC 4151}{100}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Observations and data reduction}{100}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Archival HST/STIS observations}{100}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Reduction of STIS data}{101}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Aperture selection and extraction}{102}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}The contribution of stellar continua to the spectra}{103}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Fits to key emission lines}{104}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Analysis of the STIS spectra}{106}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Transauroral-line diagnostics}{106}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Ionisation states and mechanisms of the warm-ionised gas}{109}{subsection.3.3.2}%
+\contentsline {subsubsection}{Electron temperatures}{109}{section*.85}%
+\contentsline {subsubsection}{Shock-ionisation vs matter-bounded AGN-photoionisation}{109}{section*.86}%
+\contentsline {subsubsection}{The viability of shock-ionisation}{113}{section*.89}%
+\contentsline {subsection}{\numberline {3.3.3}Electron densities of the high-ionisation gas in NGC 1068}{114}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Energetics of the outflowing gas}{116}{subsection.3.3.4}%
+\contentsline {subsubsection}{Outflow kinematics}{116}{section*.91}%
+\contentsline {subsubsection}{Mass outflow rates, kinetic powers, and coupling efficiencies}{116}{section*.92}%
+\contentsline {section}{\numberline {3.4}Discussion}{118}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}The outflow ionisation and acceleration mechanisms in the NLRs of NGC 1068 and NGC 4151}{118}{subsection.3.4.1}%
+\contentsline {subsubsection}{Matter-bounded ionisation and the acceleration mechanism in NGC 1068}{119}{section*.94}%
+\contentsline {subsubsection}{Shock-ionisation and acceleration in NGC 4151}{120}{section*.95}%
+\contentsline {subsection}{\numberline {3.4.2}The effect of ionisation mechanisms on density diagnostics}{121}{subsection.3.4.2}%
+\contentsline {subsubsection}{The impact of matter-bounded photoionisation}{121}{section*.96}%
+\contentsline {subsubsection}{The impact of shock-ionisation}{122}{section*.97}%
+\contentsline {subsubsection}{The origin of the transauroral lines in NGC 1068, NGC 4151 and IC 5063}{123}{section*.98}%
+\contentsline {subsection}{\numberline {3.4.3}Comparison of the transauroral-line-derived electron densities to other techniques}{124}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}The impact of the outflowing gas on the host galaxies}{125}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}A tale of three Seyferts: NGC 1068, NGC 4151 and IC 5063}{126}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}Chapter conclusions}{129}{section.3.5}%
+\contentsline {section}{\numberline {}Chapter acknowledgements}{130}{section*.102}%
+\contentsline {section}{\numberline {}Data availability}{130}{section*.103}%
+\contentsline {chapter}{\numberline {4}A compact cold-molecular outflow in the ULIRG F13451+1232}{133}{chapter.4}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Chapter declaration}{134}{section*.104}%
+\contentsline {section}{\numberline {4.1}Introduction}{135}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Observations and data reduction}{136}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Analysis and results}{138}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Moment maps}{138}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}BBarolo modelling of the gas disk}{139}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Kinematics of the non-rotating gas}{142}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Comparison to the small-scale radio structure}{142}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Channel maps}{145}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Potential effects of continuum subtraction}{146}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}Outflow energetics}{148}{subsection.4.3.7}%
+\contentsline {section}{\numberline {4.4}Discussion}{149}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Interpreting the non-rotating gas as inflowing}{150}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}The spatially-extended, intermediate-velocity gas}{150}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}The compact, high-velocity nuclear outflow}{151}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Chapter conclusions}{152}{section.4.5}%
+\contentsline {section}{\numberline {}Chapter acknowledgements}{153}{section*.113}%
+\contentsline {section}{\numberline {}Data availability}{154}{section*.114}%
+\contentsline {chapter}{\numberline {5}No evidence for galaxy-wide warm-ionised outflows in the ULIRG F13451+1232}{155}{chapter.5}%
+\contentsline {section}{\numberline {}Chapter declaration}{156}{section*.115}%
+\contentsline {section}{\numberline {5.1}Chapter introduction}{157}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Observations and data reduction}{159}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Archival VLT/MUSE-DEEP data}{159}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Further reduction of MUSE-DEEP data}{159}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Seeing estimates}{160}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Analysis and results}{160}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}A Bayesian emission-line fitting routine}{160}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}The effect of atmospheric seeing on outflow extents and kinematics}{163}{subsection.5.3.2}%
+\contentsline {subsubsection}{Nuclear aperture extraction and modelling}{163}{section*.117}%
+\contentsline {subsubsection}{Emission-line fits of the extended emission}{164}{section*.118}%
+\contentsline {subsubsection}{Beam smearing of compact outflow emission}{165}{section*.121}%
+\contentsline {subsubsection}{Accounting for atmospheric seeing in velocity maps}{168}{section*.125}%
+\contentsline {subsection}{\numberline {5.3.3}Energetics of the extended warm-ionised emission}{171}{subsection.5.3.3}%
+\contentsline {subsubsection}{Aperture extraction from the MUSE-DEEP datacube}{171}{section*.127}%
+\contentsline {subsubsection}{Aperture emission-line fits}{173}{section*.129}%
+\contentsline {subsubsection}{Kinematics, physical conditions, and energetics of the extended emission}{179}{section*.135}%
+\contentsline {subsubsection}{The potential impact of underlying stellar continua}{183}{section*.138}%
+\contentsline {section}{\numberline {5.4}Discussion}{183}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Comparison to models of galaxy evolution}{183}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Comparison to previous observational studies}{184}{subsection.5.4.2}%
+\contentsline {subsubsection}{The scenario for the outflows in F13451+1232}{184}{section*.139}%
+\contentsline {subsubsection}{AGN-driven outflow spatial extents measured by other methods}{185}{section*.140}%
+\contentsline {subsection}{\numberline {5.4.3}The impact of beam-smearing on outflow spatial extents and kinematics}{186}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}The impact of beam-smearing on mass outflow rates and kinetic powers}{187}{subsection.5.4.4}%
+\contentsline {section}{\numberline {5.5}Chapter conclusions}{188}{section.5.5}%
+\contentsline {section}{\numberline {}Chapter acknowledgements}{189}{section*.141}%
+\contentsline {section}{\numberline {}Data availability}{189}{section*.142}%
+\contentsline {chapter}{\numberline {6}Conclusions and future work}{191}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Thesis conclusions}{192}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Which outflow phase(s) is dominant in terms of energetics, and how are the different phases physically linked?}{192}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}What are the true electron densities of the warm ionised outflow phase, and what is the impact on outflow masses and kinetic powers?}{195}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}What are the spatial extents of AGN-driven outflows?}{197}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}How do AGN accelerate outflows?}{198}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Future work}{200}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Detailed studies of active galaxies}{200}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Statistical studies of precise outflow properties}{202}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Improved comparisons between observational and theoretical work}{203}{subsection.6.2.3}%
+\contentsline {section}{\numberline {}Chapter acknowledgements}{204}{section*.143}%
 \vspace {12pt}
-\contentsline {chapter}{\numberline {}Bibliography}{215}{chapter*.144}%
+\contentsline {chapter}{\numberline {}Bibliography}{217}{chapter*.144}%
 \vspace {12pt}
-\contentsline {chapter}{\numberline {}Abbreviations used in this work}{217}{chapter*.145}%
+\contentsline {chapter}{\numberline {}Abbreviations used in this work}{219}{chapter*.145}%
 \vspace {12pt}
-\contentsline {chapter}{\numberline {}Definitions used in this work}{219}{chapter*.146}%
+\contentsline {chapter}{\numberline {}Definitions used in this work}{221}{chapter*.146}%
 \vspace {12pt}
-\contentsline {chapter}{\numberline {}Appendices}{223}{chapter*.147}%
-\contentsline {chapter}{\numberline {A}Photoionisation modelling of the {[}OIII{]}(5007/4363) vs HeII$\lambda $4686/H$\beta $ diagnostic diagram}{225}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Critical densities and ionisation energies for key diagnostic emission lines}{229}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Modelling the effect of shock-ionisation on the transauroral-line-ratio diagnostic grid}{233}{appendix.C}%
+\contentsline {chapter}{\numberline {}Appendices}{225}{chapter*.147}%
+\contentsline {chapter}{\numberline {A}Photoionisation modelling of the {[}OIII{]}(5007/4363) vs HeII$\lambda $4686/H$\beta $ diagnostic diagram}{227}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Critical densities and ionisation energies for key diagnostic emission lines}{231}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Modelling the effect of shock-ionisation on the transauroral-line-ratio diagnostic grid}{235}{appendix.C}%
