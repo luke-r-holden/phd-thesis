@@ -1516,6 +1516,7 @@ INPUT ./chapters/muse_f13451+1232/muse_f13451_1232.tex
 INPUT ./chapters/muse_f13451+1232/muse_f13451_1232.tex
 INPUT chapters/muse_f13451+1232/muse_f13451_1232.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT ./figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf
 INPUT ./figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf
 INPUT figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf
@@ -1858,6 +1859,7 @@ INPUT main.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
