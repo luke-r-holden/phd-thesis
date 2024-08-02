@@ -53,7 +53,7 @@ To ensure the highest sensitivity and signal-to-noise, only the combined CO(1--0
     \label{fig: alma_f13451_1232: moment_maps}
 \end{figure*}
 
-To investigate the flux and kinematic structures of the CO(1--0) emission around the primary nucleus of F13451+1232, moment maps of the combined datacube were created using the \textsc{SoFiA-2} source-finding pipeline \citep{Serra2015, Serra2021}. \textbf{In order to ensure that only genuine emission over a range of spatial scales (and of varying surface brightness) was used when producing the moment maps}, \textsc{SoFiA-2} first applied different combinations of spatial and velocity smoothing to the datacube: Gaussian filters with FWHMs of 0, 3, 6, 12, and 15 pixels were used for the spatial smoothing, and boxcar filters of widths 0, 3, 7, and 15 channels were used for the velocity smoothing. For each combination of spatial and velocity smoothing, emission above $4\sigma_\mathrm{rms}$ \textsc{(measured from the original cube in a region that did not contain emission)} was added to a total mask. This mask was then applied to the original, non-smoothed datacube, from which the maps in Figure\;\ref{fig: alma_f13451_1232: moment_maps} were produced. 
+To investigate the flux and kinematic structures of the CO(1--0) emission around the primary nucleus of F13451+1232, moment maps of the combined datacube were created using the \textsc{SoFiA-2} source-finding pipeline \citep{Serra2015, Serra2021}. \textbf{In order to ensure that only genuine emission over a range of spatial scales (and of varying surface brightness) was included when producing the moment maps}, \textsc{SoFiA-2} first applied different combinations of spatial and velocity smoothing to the datacube: Gaussian filters with FWHMs of 0, 3, 6, 12, and 15 pixels were used for the spatial smoothing, and boxcar filters of widths 0, 3, 7, and 15 channels were used for the velocity smoothing. For each combination of spatial and velocity smoothing, emission above $4\sigma_\mathrm{rms}$ \textbf{(measured from the original cube in a region that did not contain emission)} was added to a total mask. This mask was then applied to the original, non-smoothed datacube, from which the maps in Figure\;\ref{fig: alma_f13451_1232: moment_maps} were produced. 
 
 In the $6\times6$\;kpc moment maps (upper panels of Figure\;\ref{fig: alma_f13451_1232: moment_maps}), cold-molecular gas is detected to radial distances of $\sim$2.5\;arcseconds ($\sim$5.5\;kpc) south of the primary nucleus, and $\sim$1\;arcsecond ($\sim$2\;kpc) to the west. This large-scale ($r$\;\textgreater\;1\;kpc) emission, which has velocities in redshift and blueshift of up to $|v|\sim500$\;km\;s$^{-1}$, is indicative of gas that has been disturbed by the merger.
 
@@ -142,17 +142,12 @@ By fitting a two-dimensional Gaussian profile to the integrated high-velocity CO
 
 To determine the level at which the high-velocity, nuclear \mbox{CO(1--0)} emission is detected in different velocity channels, I created channel maps of the central kiloparsec of the primary nucleus from the 86.4\;km\;s$^{-1}$ velocity resolution cube. The high-velocity (400\;\textless\;$v$\;\textless\;600\;km\;s$^{-1}$) channel maps --- presented in Figure\;\ref{fig: alma_f13451_1232: channel_maps} --- show emission above the 3$\sigma_\mathrm{rms}$ level (and up to 4$\sigma_\mathrm{rms}$) in all four channels on scales similar to that of the beam size (0.11\;arcseconds or 240\;pc), indicating that the feature is spatially-unresolved in the combined datacube. 
 
-\vspace*{\fill}
-
-\begin{figure}[!h]
+\begin{figure}[!b]
     \centering
-    \includegraphics[width=0.75\linewidth]{figures/alma_f13451_1232/channel_maps.pdf}
+    \includegraphics[width=0.66\linewidth]{figures/alma_f13451_1232/channel_maps.pdf}
     \caption[Velocity channel maps of the central $\sim$1\;kpc of the primary nucleus of F13451+1232.]{Channel maps of the central $\sim$1\;kpc of the primary nucleus of F13451+1232 (centred on the nucleus: Section\;\ref{section: alma_f13451_1232: observations_and_data_reduction}) between 448\;\textless\;$v$\;\textless\;576\;km\;s$^{-1}$, taken from the velocity-binned and smoothed cube with channel widths of 43.7\;km\;s$^{-1}$ and a velocity resolution of 86.4\;km\;s$^{-1}$. Black contours are shown at the $-3\sigma_\mathrm{rms}$, $-1.5\sigma_\mathrm{rms}$, 1.5$\sigma_\mathrm{rms}$, 3$\sigma_\mathrm{rms}$ levels (dashed: negative; solid: positive), where $\sigma_\mathrm{rms}$ is the RMS of the binned-and-smoothed cube. The continuum centre is marked as a white cross in each channel; the beam size is shown as a pink ellipse in the 448\;km\;s$^{-1}$ channel map (top left panel).}
     \label{fig: alma_f13451_1232: channel_maps}
 \end{figure}
-
-\vspace*{\fill}
-\newpage
 
 \subsection{Potential effects of continuum subtraction}
 \label{section: alma_f13451_1232: analysis_and_results: potential_effects_of_continuum_subtraction}
