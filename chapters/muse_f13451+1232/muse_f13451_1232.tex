@@ -51,7 +51,7 @@ To remove residuals of the \textsc{MUSE Data Reduction Pipeline} sky-subtraction
 \subsection{Seeing estimates}
 \label{section: muse_f13451_1232: observations_and_data_reduction: seeing}
 
-To estimate the seeing of the deep dataset, I extracted a $6\times6$\;arcsecond region from the deep cube around a star that lies in the field of view at a radial distance of $\sim$17\;arcseconds in projection from the primary nucleus of F13451+1232 (Figure\;\ref{fig: muse_f13451_1232: observations_and_data_reduction: halpha_sii_image}). The flux density of this star was integrated between the wavelengths 5496--5664\;{\AA} (corresponding to the [OIII]$\lambda\lambda$4595,5007 doublet) to produce a two-dimensional continuum image; fitting a two-dimensional (2D) Moffat profile (which accurately describes the PSF of a seeing disk: \citealt{Moffat1969}) to this image resulted in FWHM$_\star=0.79\pm0.10$\;arcseconds, which is taken to be the seeing value for the deep datacube. \textbf{Given that the observations were taken at lower elevations than zenith, and considering the typical FWHM reduction of the MUSE-WFM AO mode is 10--50\;per\;cent \citep{Fusco2020}, the seeing value derived in this way is consistent with the values measured by the VLT observatory DIMM (near zenith) during the constituent observations (0.66--0.91\;arcseconds)\footnote{VLT observatory DIMM seeing values queried using the DIMM Seeing Query Form: \url{http://archive.eso.org/wdb/wdb/asm/dimm_paranal/form}}.}
+To estimate the seeing of the deep dataset, I extracted a $6\times6$\;arcsecond region from the deep cube around a star that lies in the field of view at a radial distance of $\sim$17\;arcseconds in projection from the primary nucleus of F13451+1232 (Figure\;\ref{fig: muse_f13451_1232: observations_and_data_reduction: halpha_sii_image}). The flux density of this star was integrated between the wavelengths 5496--5664\;{\AA} (corresponding to the [OIII]$\lambda\lambda$4595,5007 doublet) to produce a two-dimensional continuum image; fitting a two-dimensional (2D) Moffat profile (which accurately describes the PSF of a seeing disk: \citealt{Moffat1969}) to this image resulted in FWHM$_\star=0.79\pm0.10$\;arcseconds, which is taken to be the seeing value for the deep datacube. \textbf{Given that the observations were taken at lower elevations than zenith, and considering that the typical FWHM reduction of the MUSE-WFM AO mode is 10--50\;per\;cent \citep{Fusco2020}, the seeing value derived in this way is consistent with the values measured by the VLT observatory DIMM (near zenith) during the constituent observations (0.66--0.91\;arcseconds)\footnote{VLT observatory DIMM seeing values queried using the DIMM Seeing Query Form: \url{http://archive.eso.org/wdb/wdb/asm/dimm_paranal/form}}.}
 
 \begin{figure}
     \centering
@@ -100,6 +100,12 @@ Given that compact ($r$\;\textless\;100\;pc), warm-ionised outflows have been de
 
 To determine the large-scale warm-ionised gas kinematics, for each spaxel in the deep datacube, the Bayesian emission-line fitting routine was used to fit a model consisting of the nuclear model (accounting for beam-smeared, nuclear-outflow emission) and $N_\mathrm{g}$ additional Gaussian components (accounting for genuine, non-beam-smeared emission) to the [OIII]$\lambda\lambda$4959,5007 doublet. The centroid wavelengths, widths and relative intensities of the Gaussian components of the nuclear model were fixed; only the peak flux density was allowed to vary. In this way, the line-fitting routine was able to determine the extent to which the nuclear-outflow emission was smeared across the MUSE field of view, as well as detect and isolate the contributions of genuine extended emission to line profiles in each spaxel. Similar approaches to PSF-subtraction and beam-smearing-correction have been taken by previous studies (e.g. \citealt{Carniani2015, Kakkad2020, Speranza2024}), although here, only broad components (FWHM\;\textgreater\;500\;km\;s$^{-1}$) are included in the nuclear model.
 
+\subsubsection{Beam smearing of compact outflow emission}
+\label{section: muse_f13451_1232: analysis_and_results: seeing: psf}
+
+As a measure of the extent of beam smearing of the compact nuclear-outflow emission, in the left panels of Figure\;\ref{fig: muse_f13451_1232: analysis_and_results: seeing: nuclear_model_psf} I present the spatial distribution of the peak flux intensity of the nuclear model in the central $7\times7$\;arcsecond region around the primary nucleus of F13451+1232, as determined by fitting the [OIII]$\lambda\lambda4959,5007$ doublet in each spaxel. The flux of the nuclear-model components appears to be radially symmetric around the location of the primary nucleus, indicative of beam smearing.
+
+\vspace*{\fill}
 
 \begin{table}
     \renewcommand{\arraystretch}{1.2}
@@ -116,17 +122,20 @@ To determine the large-scale warm-ionised gas kinematics, for each spaxel in the
     \label{tab: muse_f13451_1232: analysis_and_results: seeing: nuclear_model}
 \end{table}
 
-\begin{figure}[!ht]
+\vspace*{\fill}
+
+\begin{figure}
     \centering
     \includegraphics[width=0.7\linewidth]{figures/muse_f13451_1232/nuclear_model.pdf}
     \caption[{[}OIII{]}$\lambda\lambda$4959,5007 line profile (and nuclear model fit) for the primary nucleus of F13451+1232]{[OIII]$\lambda\lambda$4959,5007 line profile for the extracted circular $r=0.4$\;arcsec aperture centred on the primary nucleus of F13451+1232 (black solid line). The overall fit to the line profile is shown as a solid red line; the broad Gaussian components of this fit (the `nuclear model') are shown as dashed blue lines, the narrow Gaussian component is shown as a dash-dotted green line, and the first-order polynomial (accounting for the continuum) is shown as a dotted orange line. Residuals (flux $-$ model) are shown as crosses below the line profile.}
     \label{fig: muse_f13451_1232: analysis_and_results: seeing: nuclear_aperture_spectrum}
 \end{figure}
 
-\subsubsection{Beam smearing of compact outflow emission}
-\label{section: muse_f13451_1232: analysis_and_results: seeing: psf}
+\vspace*{\fill}
 
-As a measure of the extent of beam smearing of the compact nuclear-outflow emission, in the left panels of Figure\;\ref{fig: muse_f13451_1232: analysis_and_results: seeing: nuclear_model_psf} I present the spatial distribution of the peak flux intensity of the nuclear model in the central $7\times7$\;arcsecond region around the primary nucleus of F13451+1232, as determined by fitting the [OIII]$\lambda\lambda4959,5007$ doublet in each spaxel. The flux of the nuclear-model components appears to be radially symmetric around the location of the primary nucleus, indicative of beam smearing. To investigate this further, a two-dimensional Moffat profile was fit to the spatial flux distribution of the nuclear model, which is shown along with residuals (the flux of the fitted two-dimensional Moffat profile subtracted from the peak flux of the nuclear model) in Figure\;\ref{fig: muse_f13451_1232: analysis_and_results: seeing: nuclear_model_psf} --- it can be seen that the spatial distribution of the nuclear-model flux is well described by a Moffat profile of $\mathrm{FWHM}=0.74\pm0.02$ arcseconds. This value is consistent (within $1\sigma$) with the seeing value measured from a star in the MUSE-DEEP data FOV ($\mathrm{FWHM}_\star=0.79\pm0.10$\;arcseconds: Section\;\ref{section: muse_f13451_1232: observations_and_data_reduction: seeing}; see Figure\;\ref{fig: muse_f13451_1232: observations_and_data_reduction: halpha_sii_image}), providing direct evidence that atmospheric seeing artificially spread emission from the nuclear outflows across the MUSE FOV.
+\newpage
+
+ To investigate this further, a two-dimensional Moffat profile was fit to the spatial flux distribution of the nuclear model, which is shown along with residuals (the flux of the fitted two-dimensional Moffat profile subtracted from the peak flux of the nuclear model) in Figure\;\ref{fig: muse_f13451_1232: analysis_and_results: seeing: nuclear_model_psf} --- it can be seen that the spatial distribution of the nuclear-model flux is well described by a Moffat profile of $\mathrm{FWHM}=0.74\pm0.02$ arcseconds. This value is consistent (within $1\sigma$) with the seeing value measured from a star in the MUSE-DEEP data FOV ($\mathrm{FWHM}_\star=0.79\pm0.10$\;arcseconds: Section\;\ref{section: muse_f13451_1232: observations_and_data_reduction: seeing}; see Figure\;\ref{fig: muse_f13451_1232: observations_and_data_reduction: halpha_sii_image}), providing direct evidence that atmospheric seeing artificially spread emission from the nuclear outflows across the MUSE FOV.
 
 \begin{figure}[!t]
     \begin{subfigure}[t]{0.3355\linewidth}
@@ -249,7 +258,6 @@ The locations and sizes of the apertures --- shown in Figure\;\ref{fig: muse_f13
     \label{fig: muse_f13451_1232: analysis_and_results: extended_emission: apertures}
 \end{figure}
 
-\newpage
 
 \subsubsection{Aperture emission-line fits}
 \label{section: muse_f13451_1232: analysis_and_results: extended_emission: aperture_line_fits}
