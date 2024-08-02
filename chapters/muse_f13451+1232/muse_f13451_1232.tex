@@ -76,12 +76,12 @@ The initial starting points for the model parameters were set by Gaussian distri
 
 Priors for the routine were also physically motivated. For the Gaussian components, their peak values were required to be equal-to or greater-than zero (to ensure only emission was being modelled), their centroids were not allowed to be more than 50\;{\AA} in separation from the rest wavelength of the line in the galaxy's rest frame (corresponding to $v\sim3000$\;km\;s$^{-1}$), and their widths were constrained to be greater than the MUSE instrumental width. Furthermore, the flux ratios for lines arising from the same ions (but with different upper energy levels) were required to be within the ratio limits defined by atomic physics --- for example, 0.44\;\textless\;[SII](6717/6731)\;\textless\;1.45 (determined using the \textsc{PyNeb Python} module). 
 
-The likelihood function used in the MCMC fits was
+The log-likelihood function used in the MCMC fits was
 \begin{equation}
-    \chi^2=\frac{1}{2}\mathlarger{\sum^k_{i=1}}\frac{F_\mathrm{\lambda,i}-F^\mathrm{m}_\mathrm{\lambda,i}}{F^\mathrm{err}_\mathrm{\lambda,i}},
-    \label{eq: muse_f13451_1232: analysis_and_results: chisq}
+    \ln L=\frac{1}{2}\mathlarger{\sum^k_{i=1}}\Biggl(\frac{F_\mathrm{\lambda,i}-F^\mathrm{m}_\mathrm{\lambda,i}}{F^\mathrm{err}_\mathrm{\lambda,i}}\Biggl)^2,
+    \label{eq: analysis_and_results: chisq}
 \end{equation}
-where, at the wavelength step $i$ (and up to the final wavelength step $k$), $F_\mathrm{\lambda,i}$ is the observed flux density, $F^\mathrm{m}_\mathrm{\lambda,i}$ is the  modelled flux density, and ${F^\mathrm{err}_\mathrm{\lambda,i}}$ is the uncertainty associated with the observed flux density.
+where, at the wavelength step $i$ (and up to the final wavelength step $k$), $F_\mathrm{\lambda,i}$ is the observed flux density, $F^\mathrm{m}_\mathrm{\lambda,i}$ is the modelled flux density, and ${F^\mathrm{err}_\mathrm{\lambda,i}}$ is the uncertainty associated with the observed flux density.
 
 The fitting routine begins with $N_\mathrm{g}=0$ (i.e. only a first-order polynomial), for which a fit to the data is produced using the MCMC Ensemble. The Bayesian probabilities for the initial run are recorded, and this process is repeated for $N_\mathrm{g}=N_\mathrm{g}+1$ until the ratio of posterior probabilities (Bayesian odds) of successive runs is less than two\footnote{As a check on this criterion, I also performed this routine with the Bayesian Information Criterion (BIC), where the more-complex model was chosen if the difference of BIC values between successive runs was greater than 6. When applied to the MUSE-DEEP data, the resulting model parameters were not significantly different from those produced using the Bayesian odds criterion.}. If this condition is not met, the routine continues until it is fulfilled. In this way, the minimum number of statistically-meaningful Gaussian components required to describe the emission-line profiles is determined by the routine, avoiding over-fitting. 
 
