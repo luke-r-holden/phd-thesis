@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1723476988 "main.aux" "main.bbl" "main" 1723477197 0
+["bibtex main"] 1723477859 "main.aux" "main.bbl" "main" 1723478161 0
   "./precise_outflow_diagnostics.bib" 1721987792 398275 47ef03a6a545883c0a4f156de687b0a3 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/mnras/mnras.bst" 1593726342 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "main.aux" 1723477197 222300 0290745ea9fa816bfb49036b5bb0efb9 "pdflatex"
+  "main.aux" 1723478161 222300 c35eeff52c61e3393e599ed125bbac5a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1723477189 "main.tex" "main.pdf" "main" 1723477197 0
+["pdflatex"] 1723478153 "main.tex" "main.pdf" "main" 1723478161 0
   "/etc/texmf/web2c/texmf.cnf" 1715548226 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -19,7 +19,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -40,7 +39,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1248133631 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
@@ -188,12 +186,12 @@
   "chapters/conclusions_and_future_work/conclusions_and_future_work.tex" 1714486708 41125 61d39de9b426133c49a20077d60ff67d ""
   "chapters/declaration/declaration.tex" 1714486708 941 8705218b90f29cb2d55f82877ef5033c ""
   "chapters/definitions/definitions.tex" 1714486708 3795 2384ec462d6b629f078c820130a92882 ""
-  "chapters/introduction/introduction.tex" 1723477188 104192 76fdcd2d034e6f13c26537633cd1fe45 ""
+  "chapters/introduction/introduction.tex" 1723477339 104192 76fdcd2d034e6f13c26537633cd1fe45 ""
   "chapters/muse_f13451+1232/muse_f13451_1232.tex" 1723476541 99661 05f189b9276a3fa681234b067e1971ba ""
   "chapters/stis_seyferts/stis_seyferts.tex" 1722589523 106015 12679df0a34e92d947873825e7d6f465 ""
   "chapters/title_page/main_quote.tex" 1714486708 331 c4ad15e85bc716d1fbf5f59bc856d423 ""
   "chapters/title_page/title_page.tex" 1714486708 611 d03eaab14c4a6c85e53fab917f75de21 ""
-  "chapters/xshooter_ic5063/xshooter_ic5063.tex" 1722589242 137304 54e74361fed91e21f161efe88d4c1bfd ""
+  "chapters/xshooter_ic5063/xshooter_ic5063.tex" 1723478153 137106 989140a97c154a12cc3556f114b44b0a ""
   "figures/alma_f13451_1232/beam_comparison.pdf" 1714486714 17491 05f3d034334477369046fb3667db535f ""
   "figures/alma_f13451_1232/channel_maps.pdf" 1714486714 52198 ab82a85579c7eabd42fb7726f11ed174 ""
   "figures/alma_f13451_1232/disk_moment_maps.pdf" 1714486714 73327 bec454db579db761f4dfd96858d541a5 ""
@@ -298,12 +296,12 @@
   "figures/xshooter_ic5063/tr_balmer_reddening.pdf" 1714486710 10885 372b577dc2630ce440162ffedb54b61c ""
   "figures/xshooter_ic5063/vmin_vmax.png" 1714486710 406994 afd6537ce0cee8c89339fccf4f42b3fb ""
   "figures/xshooter_ic5063/vmin_widths.pdf" 1714486710 15540 d68011cc36a94030177c89b323d5c5e3 ""
-  "main.aux" 1723477197 222300 0290745ea9fa816bfb49036b5bb0efb9 "pdflatex"
-  "main.bbl" 1723476988 121348 eba354dff9d1f1fb2c7fc6b2761de1a5 "bibtex main"
-  "main.lof" 1723477197 15227 0e5b743bc3b12fad9884b43cd2fef773 "pdflatex"
-  "main.lot" 1723477197 5977 8b6c388aa7d8e0e2efbe2d0c2a4300c6 "pdflatex"
+  "main.aux" 1723478161 222300 c35eeff52c61e3393e599ed125bbac5a "pdflatex"
+  "main.bbl" 1723477859 121348 eba354dff9d1f1fb2c7fc6b2761de1a5 "bibtex main"
+  "main.lof" 1723478161 15227 79ee7f754f8276ebe17c08f1ec70bfe7 "pdflatex"
+  "main.lot" 1723478161 5977 8b6c388aa7d8e0e2efbe2d0c2a4300c6 "pdflatex"
   "main.tex" 1715874372 7583 6e390654ade355885fcaf13a71e8f0c5 ""
-  "main.toc" 1723477197 16785 a23cd88bea1505ba273bef3180f16e83 "pdflatex"
+  "main.toc" 1723478161 16785 ea331a0ae847f05a3bd20bafd9e86adc "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

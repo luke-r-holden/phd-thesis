@@ -1299,7 +1299,6 @@ INPUT ./figures/observations_and_data_reduction/ic5063_hst_17ghz.png
 INPUT figures/observations_and_data_reduction/ic5063_hst_17ghz.png
 INPUT ./figures/observations_and_data_reduction/ic5063_hst_17ghz.png
 INPUT ./figures/observations_and_data_reduction/ic5063_hst_17ghz.png
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT ./figures/xshooter_ic5063/apertures.png
 INPUT ./figures/xshooter_ic5063/apertures.png
@@ -1856,7 +1855,6 @@ INPUT ./figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf
 INPUT ./figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf
 INPUT main.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb

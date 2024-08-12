@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.5.14)  12 AUG 2024 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.5.14)  12 AUG 2024 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,9 +1271,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [45 <./figures/observations_and_data_reduction/ic5063_hst_17ghz.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1290,7 +1287,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [47]
-<figures/xshooter_ic5063/apertures.png, id=2630, 1081.03876pt x 551.05875pt>
+<figures/xshooter_ic5063/apertures.png, id=2629, 1081.03876pt x 551.05875pt>
 File: figures/xshooter_ic5063/apertures.png Graphic file (type png)
 <use figures/xshooter_ic5063/apertures.png>
 Package pdftex.def Info: figures/xshooter_ic5063/apertures.png  used on input line 77.
@@ -1306,7 +1303,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[48]
+[48 <./figures/xshooter_ic5063/apertures.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1314,18 +1311,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49 <./figures/xshooter_ic5063/apertures.png>]
-<figures/xshooter_ic5063/starlight_mgi_ni.pdf, id=2672, 505.89pt x 505.89pt>
+[49]
+<figures/xshooter_ic5063/starlight_mgi_ni.pdf, id=2671, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/starlight_mgi_ni.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/starlight_mgi_ni.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/starlight_mgi_ni.pdf  used on input line 97.
 (pdftex.def)             Requested size: 213.96529pt x 213.96988pt.
-<figures/xshooter_ic5063/starlight_caii_hk_hep.pdf, id=2673, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/starlight_caii_hk_hep.pdf, id=2672, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/starlight_caii_hk_hep.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/starlight_caii_hk_hep.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/starlight_caii_hk_hep.pdf  used on input line 103.
 (pdftex.def)             Requested size: 213.96529pt x 213.96988pt.
-<figures/xshooter_ic5063/starlight_hgamma_oiii4363.pdf, id=2674, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/starlight_hgamma_oiii4363.pdf, id=2673, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/starlight_hgamma_oiii4363.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/starlight_hgamma_oiii4363.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/starlight_hgamma_oiii4363.pdf  used on input line 109.
@@ -1335,11 +1332,15 @@ Underfull \hbox (badness 1762) in paragraph at lines 110--110
 []\OT1/cmr/m/n/10.95 (c) |The spec-tral re-gion of the H$\OML/cmm/m/it/10.95 ^^M$ \OT1/cmr/m/n/10.95 and
  []
 
-<figures/xshooter_ic5063/starlight_ariv.pdf, id=2675, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/starlight_ariv.pdf, id=2674, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/starlight_ariv.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/starlight_ariv.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/starlight_ariv.pdf  used on input line 115.
 (pdftex.def)             Requested size: 213.96529pt x 213.96988pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1365,12 +1366,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
-<figures/xshooter_ic5063/oiii_models.png, id=2896, 1530.6786pt x 1511.8884pt>
+<figures/xshooter_ic5063/oiii_models.png, id=2894, 1530.6786pt x 1511.8884pt>
 File: figures/xshooter_ic5063/oiii_models.png Graphic file (type png)
 <use figures/xshooter_ic5063/oiii_models.png>
 Package pdftex.def Info: figures/xshooter_ic5063/oiii_models.png  used on input line 137.
 (pdftex.def)             Requested size: 455.24411pt x 458.16086pt.
-<figures/xshooter_ic5063/oiii_fits_other_lines.png, id=2898, 1519.1154pt x 1517.67pt>
+<figures/xshooter_ic5063/oiii_fits_other_lines.png, id=2896, 1519.1154pt x 1517.67pt>
 File: figures/xshooter_ic5063/oiii_fits_other_lines.png Graphic file (type png)
 <use figures/xshooter_ic5063/oiii_fits_other_lines.png>
 Package pdftex.def Info: figures/xshooter_ic5063/oiii_fits_other_lines.png  used on input line 143.
@@ -1403,12 +1404,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--207
 
  []
 
-<figures/xshooter_ic5063/vmin_vmax.png, id=2926, 2168.1pt x 927.9468pt>
+<figures/xshooter_ic5063/vmin_vmax.png, id=2924, 2168.1pt x 927.9468pt>
 File: figures/xshooter_ic5063/vmin_vmax.png Graphic file (type png)
 <use figures/xshooter_ic5063/vmin_vmax.png>
 Package pdftex.def Info: figures/xshooter_ic5063/vmin_vmax.png  used on input line 213.
 (pdftex.def)             Requested size: 455.24411pt x 194.83209pt.
-<figures/xshooter_ic5063/vmin_widths.pdf, id=2931, 526.27867pt x 450.648pt>
+<figures/xshooter_ic5063/vmin_widths.pdf, id=2929, 526.27867pt x 450.648pt>
 File: figures/xshooter_ic5063/vmin_widths.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/vmin_widths.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/vmin_widths.pdf  used on input line 220.
@@ -1437,7 +1438,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [57 <./figures/xshooter_ic5063/vmin_vmax.png> <./figures/xshooter_ic5063/vmin_widths.pdf>]
-<figures/xshooter_ic5063/spatial_optical_labeled.pdf, id=3005, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/spatial_optical_labeled.pdf, id=3003, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/spatial_optical_labeled.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/spatial_optical_labeled.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/spatial_optical_labeled.pdf  used on input line 253.
@@ -1473,7 +1474,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [60]
-<figures/xshooter_ic5063/ddd_grid_zoomed.pdf, id=3116, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/ddd_grid_zoomed.pdf, id=3114, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/ddd_grid_zoomed.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/ddd_grid_zoomed.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/ddd_grid_zoomed.pdf  used on input line 282.
@@ -1534,7 +1535,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [65]
-<figures/xshooter_ic5063/tr_balmer_reddening.pdf, id=3205, 473.3936pt x 456.74892pt>
+<figures/xshooter_ic5063/tr_balmer_reddening.pdf, id=3203, 473.3936pt x 456.74892pt>
 File: figures/xshooter_ic5063/tr_balmer_reddening.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/tr_balmer_reddening.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/tr_balmer_reddening.pdf  used on input line 375.
@@ -1567,7 +1568,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [68]
-<figures/xshooter_ic5063/L_1Z.pdf, id=3274, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/L_1Z.pdf, id=3272, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/L_1Z.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/L_1Z.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/L_1Z.pdf  used on input line 424.
@@ -1595,7 +1596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [70 <./figures/xshooter_ic5063/L_1Z.pdf>]
-<figures/xshooter_ic5063/fkin.pdf, id=3359, 564.23297pt x 488.36705pt>
+<figures/xshooter_ic5063/fkin.pdf, id=3357, 564.23297pt x 488.36705pt>
 File: figures/xshooter_ic5063/fkin.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/fkin.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/fkin.pdf  used on input line 448.
@@ -1617,7 +1618,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [72 <./figures/xshooter_ic5063/fkin.pdf>]
-<figures/xshooter_ic5063/ap3_oiii_h2.pdf, id=3453, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/ap3_oiii_h2.pdf, id=3451, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/ap3_oiii_h2.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/ap3_oiii_h2.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/ap3_oiii_h2.pdf  used on input line 483.
@@ -1631,7 +1632,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [73]
-<figures/xshooter_ic5063/feii_pab.pdf, id=3479, 505.35675pt x 457.44684pt>
+<figures/xshooter_ic5063/feii_pab.pdf, id=3477, 505.35675pt x 457.44684pt>
 File: figures/xshooter_ic5063/feii_pab.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/feii_pab.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/feii_pab.pdf  used on input line 497.
@@ -1688,7 +1689,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [77
 
 ]
-<figures/xshooter_ic5063/oii_h2_pv_diagram_3.png, id=3611, 578.16pt x 1041.8925pt>
+<figures/xshooter_ic5063/oii_h2_pv_diagram_3.png, id=3609, 578.16pt x 1041.8925pt>
 File: figures/xshooter_ic5063/oii_h2_pv_diagram_3.png Graphic file (type png)
 <use figures/xshooter_ic5063/oii_h2_pv_diagram_3.png>
 Package pdftex.def Info: figures/xshooter_ic5063/oii_h2_pv_diagram_3.png  used on input line 545.
@@ -1713,7 +1714,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [79 <./figures/xshooter_ic5063/oii_h2_pv_diagram_3.png>]
-<figures/xshooter_ic5063/ap56_h2_velocity_profile.pdf, id=3632, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/ap56_h2_velocity_profile.pdf, id=3630, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/ap56_h2_velocity_profile.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/ap56_h2_velocity_profile.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/ap56_h2_velocity_profile.pdf  used on input line 556.
@@ -1770,7 +1771,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [84]
-<figures/xshooter_ic5063/cooling_sequence_schematic.png, id=3795, 1834.855pt x 1003.75pt>
+<figures/xshooter_ic5063/cooling_sequence_schematic.png, id=3793, 1834.855pt x 1003.75pt>
 File: figures/xshooter_ic5063/cooling_sequence_schematic.png Graphic file (type png)
 <use figures/xshooter_ic5063/cooling_sequence_schematic.png>
 Package pdftex.def Info: figures/xshooter_ic5063/cooling_sequence_schematic.png  used on input line 641.
@@ -1788,7 +1789,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [85 <./figures/xshooter_ic5063/cooling_sequence_schematic.png>]
-<figures/xshooter_ic5063/spatial_nir.pdf, id=3818, 505.89pt x 505.89pt>
+<figures/xshooter_ic5063/spatial_nir.pdf, id=3816, 505.89pt x 505.89pt>
 File: figures/xshooter_ic5063/spatial_nir.pdf Graphic file (type pdf)
 <use figures/xshooter_ic5063/spatial_nir.pdf>
 Package pdftex.def Info: figures/xshooter_ic5063/spatial_nir.pdf  used on input line 652.
@@ -1894,7 +1895,7 @@ Underfull \hbox (badness 2173) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 ionisation com-po-nent pho-toion-i-sa-tion mod-elling of the warm-ionised out-flows in
  []
 
-<figures/observations_and_data_reduction/seyferts_wfpc2.png, id=4226, 1526.70375pt x 718.685pt>
+<figures/observations_and_data_reduction/seyferts_wfpc2.png, id=4224, 1526.70375pt x 718.685pt>
 File: figures/observations_and_data_reduction/seyferts_wfpc2.png Graphic file (type png)
 <use figures/observations_and_data_reduction/seyferts_wfpc2.png>
 Package pdftex.def Info: figures/observations_and_data_reduction/seyferts_wfpc2.png  used on input line 59.
@@ -1922,12 +1923,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [99 <./figures/observations_and_data_reduction/seyferts_wfpc2.png>]
-<figures/stis_seyferts/apertures.png, id=4270, 1705.37125pt x 828.09375pt>
+<figures/stis_seyferts/apertures.png, id=4268, 1705.37125pt x 828.09375pt>
 File: figures/stis_seyferts/apertures.png Graphic file (type png)
 <use figures/stis_seyferts/apertures.png>
 Package pdftex.def Info: figures/stis_seyferts/apertures.png  used on input line 77.
 (pdftex.def)             Requested size: 455.24411pt x 207.86952pt.
-<figures/stis_seyferts/ngc1068_g430l_ap2.pdf, id=4275, 1011.78pt x 650.43pt>
+<figures/stis_seyferts/ngc1068_g430l_ap2.pdf, id=4273, 1011.78pt x 650.43pt>
 File: figures/stis_seyferts/ngc1068_g430l_ap2.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/ngc1068_g430l_ap2.pdf>
 Package pdftex.def Info: figures/stis_seyferts/ngc1068_g430l_ap2.pdf  used on input line 86.
@@ -1987,7 +1988,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [105]
-<figures/stis_seyferts/tr_ddd_seyferts.pdf, id=4422, 505.89pt x 505.89pt>
+<figures/stis_seyferts/tr_ddd_seyferts.pdf, id=4420, 505.89pt x 505.89pt>
 File: figures/stis_seyferts/tr_ddd_seyferts.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/tr_ddd_seyferts.pdf>
 Package pdftex.def Info: figures/stis_seyferts/tr_ddd_seyferts.pdf  used on input line 178.
@@ -2012,7 +2013,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [107]
-<figures/stis_seyferts/oiii_heii_hb_stis.pdf, id=4509, 505.89pt x 505.89pt>
+<figures/stis_seyferts/oiii_heii_hb_stis.pdf, id=4507, 505.89pt x 505.89pt>
 File: figures/stis_seyferts/oiii_heii_hb_stis.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/oiii_heii_hb_stis.pdf>
 Package pdftex.def Info: figures/stis_seyferts/oiii_heii_hb_stis.pdf  used on input line 204.
@@ -2029,7 +2030,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [108]
-<figures/stis_seyferts/heii_nev_neii.pdf, id=4539, 505.89pt x 505.89pt>
+<figures/stis_seyferts/heii_nev_neii.pdf, id=4537, 505.89pt x 505.89pt>
 File: figures/stis_seyferts/heii_nev_neii.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/heii_nev_neii.pdf>
 Package pdftex.def Info: figures/stis_seyferts/heii_nev_neii.pdf  used on input line 213.
@@ -2083,7 +2084,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [112]
-<figures/stis_seyferts/nev_fevii_vary_a.pdf, id=4674, 449.45605pt x 444.54709pt>
+<figures/stis_seyferts/nev_fevii_vary_a.pdf, id=4672, 449.45605pt x 444.54709pt>
 File: figures/stis_seyferts/nev_fevii_vary_a.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/nev_fevii_vary_a.pdf>
 Package pdftex.def Info: figures/stis_seyferts/nev_fevii_vary_a.pdf  used on input line 244.
@@ -2186,7 +2187,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [121]
-<figures/stis_seyferts/tr_oiii_hbeta.pdf, id=4979, 863.79959pt x 451.99205pt>
+<figures/stis_seyferts/tr_oiii_hbeta.pdf, id=4977, 863.79959pt x 451.99205pt>
 File: figures/stis_seyferts/tr_oiii_hbeta.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/tr_oiii_hbeta.pdf>
 Package pdftex.def Info: figures/stis_seyferts/tr_oiii_hbeta.pdf  used on input line 357.
@@ -2223,7 +2224,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [124]
-<figures/stis_seyferts/oiii_heii_hb_seyferts.pdf, id=5178, 505.89pt x 505.89pt>
+<figures/stis_seyferts/oiii_heii_hb_seyferts.pdf, id=5176, 505.89pt x 505.89pt>
 File: figures/stis_seyferts/oiii_heii_hb_seyferts.pdf Graphic file (type pdf)
 <use figures/stis_seyferts/oiii_heii_hb_seyferts.pdf>
 Package pdftex.def Info: figures/stis_seyferts/oiii_heii_hb_seyferts.pdf  used on input line 408.
@@ -2315,12 +2316,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [135]
-<figures/alma_f13451_1232/large_fov_moment_maps.pdf, id=5420, 1359.59972pt x 495.63719pt>
+<figures/alma_f13451_1232/large_fov_moment_maps.pdf, id=5418, 1359.59972pt x 495.63719pt>
 File: figures/alma_f13451_1232/large_fov_moment_maps.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/large_fov_moment_maps.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/large_fov_moment_maps.pdf  used on input line 46.
 (pdftex.def)             Requested size: 455.24411pt x 151.66068pt.
-<figures/alma_f13451_1232/moment_maps.pdf, id=5422, 1359.59972pt x 495.63719pt>
+<figures/alma_f13451_1232/moment_maps.pdf, id=5420, 1359.59972pt x 495.63719pt>
 File: figures/alma_f13451_1232/moment_maps.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/moment_maps.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/moment_maps.pdf  used on input line 50.
@@ -2345,7 +2346,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [137]
-<figures/alma_f13451_1232/disk_moment_maps.pdf, id=5605, 510.51529pt x 545.68596pt>
+<figures/alma_f13451_1232/disk_moment_maps.pdf, id=5603, 510.51529pt x 545.68596pt>
 File: figures/alma_f13451_1232/disk_moment_maps.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/disk_moment_maps.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/disk_moment_maps.pdf  used on input line 73.
@@ -2370,17 +2371,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [139 <./figures/alma_f13451_1232/disk_moment_maps.pdf>]
-<figures/alma_f13451_1232/pv_248deg.pdf, id=5700, 457.91049pt x 371.13751pt>
+<figures/alma_f13451_1232/pv_248deg.pdf, id=5698, 457.91049pt x 371.13751pt>
 File: figures/alma_f13451_1232/pv_248deg.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/pv_248deg.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/pv_248deg.pdf  used on input line 114.
 (pdftex.def)             Requested size: 341.43307pt x 276.73279pt.
-<figures/alma_f13451_1232/pv_120deg.pdf, id=5701, 457.91049pt x 371.13751pt>
+<figures/alma_f13451_1232/pv_120deg.pdf, id=5699, 457.91049pt x 371.13751pt>
 File: figures/alma_f13451_1232/pv_120deg.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/pv_120deg.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/pv_120deg.pdf  used on input line 119.
 (pdftex.def)             Requested size: 341.43307pt x 276.73279pt.
-<figures/alma_f13451_1232/outflow_moment_map.pdf, id=5704, 532.67697pt x 892.36389pt>
+<figures/alma_f13451_1232/outflow_moment_map.pdf, id=5702, 532.67697pt x 892.36389pt>
 File: figures/alma_f13451_1232/outflow_moment_map.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/outflow_moment_map.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/outflow_moment_map.pdf  used on input line 127.
@@ -2420,7 +2421,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [142 <./figures/alma_f13451_1232/outflow_moment_map.pdf>]
-<figures/alma_f13451_1232/channel_maps.pdf, id=5897, 478.92206pt x 526.7746pt>
+<figures/alma_f13451_1232/channel_maps.pdf, id=5895, 478.92206pt x 526.7746pt>
 File: figures/alma_f13451_1232/channel_maps.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/channel_maps.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/channel_maps.pdf  used on input line 147.
@@ -2434,7 +2435,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [143 <./figures/alma_f13451_1232/channel_maps.pdf>]
-<figures/alma_f13451_1232/beam_comparison.pdf, id=5967, 531.41032pt x 283.13968pt>
+<figures/alma_f13451_1232/beam_comparison.pdf, id=5965, 531.41032pt x 283.13968pt>
 File: figures/alma_f13451_1232/beam_comparison.pdf Graphic file (type pdf)
 <use figures/alma_f13451_1232/beam_comparison.pdf>
 Package pdftex.def Info: figures/alma_f13451_1232/beam_comparison.pdf  used on input line 162.
@@ -2579,7 +2580,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [157]
-<figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf, id=6340, 580.62827pt x 515.49431pt>
+<figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf, id=6338, 580.62827pt x 515.49431pt>
 File: figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/f13451_1232_halpha_sii.pdf  used on input line 58.
@@ -2620,7 +2621,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [161]
-<figures/muse_f13451_1232/nuclear_model.pdf, id=6456, 474.39734pt x 449.70699pt>
+<figures/muse_f13451_1232/nuclear_model.pdf, id=6454, 474.39734pt x 449.70699pt>
 File: figures/muse_f13451_1232/nuclear_model.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model.pdf  used on input line 129.
@@ -2642,52 +2643,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [163 <./figures/muse_f13451_1232/nuclear_model.pdf>]
-<figures/muse_f13451_1232/nuclear_model_psf.pdf, id=6512, 578.16pt x 578.16pt>
+<figures/muse_f13451_1232/nuclear_model_psf.pdf, id=6510, 578.16pt x 578.16pt>
 File: figures/muse_f13451_1232/nuclear_model_psf.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model_psf.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model_psf.pdf  used on input line 143.
 (pdftex.def)             Requested size: 152.73212pt x 164.90082pt.
-<figures/muse_f13451_1232/nuclear_model_psf_model.pdf, id=6514, 578.16pt x 578.16pt>
+<figures/muse_f13451_1232/nuclear_model_psf_model.pdf, id=6512, 578.16pt x 578.16pt>
 File: figures/muse_f13451_1232/nuclear_model_psf_model.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model_psf_model.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model_psf_model.pdf  used on input line 148.
 (pdftex.def)             Requested size: 136.57462pt x 164.98903pt.
-<figures/muse_f13451_1232/nuclear_model_psf_residual.pdf, id=6516, 578.16pt x 578.16pt>
+<figures/muse_f13451_1232/nuclear_model_psf_residual.pdf, id=6514, 578.16pt x 578.16pt>
 File: figures/muse_f13451_1232/nuclear_model_psf_residual.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model_psf_residual.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model_psf_residual.pdf  used on input line 153.
 (pdftex.def)             Requested size: 136.57462pt x 164.98903pt.
-<figures/muse_f13451_1232/nuclear_model_psf_highcrop.pdf, id=6518, 578.16pt x 578.16pt>
+<figures/muse_f13451_1232/nuclear_model_psf_highcrop.pdf, id=6516, 578.16pt x 578.16pt>
 File: figures/muse_f13451_1232/nuclear_model_psf_highcrop.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model_psf_highcrop.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model_psf_highcrop.pdf  used on input line 157.
 (pdftex.def)             Requested size: 152.73212pt x 164.90082pt.
-<figures/muse_f13451_1232/nuclear_model_psf_model_highcrop.pdf, id=6520, 578.16pt x 578.16pt>
+<figures/muse_f13451_1232/nuclear_model_psf_model_highcrop.pdf, id=6518, 578.16pt x 578.16pt>
 File: figures/muse_f13451_1232/nuclear_model_psf_model_highcrop.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model_psf_model_highcrop.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model_psf_model_highcrop.pdf  used on input line 162.
 (pdftex.def)             Requested size: 136.57462pt x 164.98903pt.
-<figures/muse_f13451_1232/nuclear_model_psf_residual_highcrop.pdf, id=6522, 578.16pt x 578.16pt>
+<figures/muse_f13451_1232/nuclear_model_psf_residual_highcrop.pdf, id=6520, 578.16pt x 578.16pt>
 File: figures/muse_f13451_1232/nuclear_model_psf_residual_highcrop.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/nuclear_model_psf_residual_highcrop.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/nuclear_model_psf_residual_highcrop.pdf  used on input line 167.
 (pdftex.def)             Requested size: 136.57462pt x 164.98903pt.
-<figures/muse_f13451_1232/broadsub_apertures/ap1_original_broadsub_comparison.png, id=6524, 505.89pt x 505.89pt>
+<figures/muse_f13451_1232/broadsub_apertures/ap1_original_broadsub_comparison.png, id=6522, 505.89pt x 505.89pt>
 File: figures/muse_f13451_1232/broadsub_apertures/ap1_original_broadsub_comparison.png Graphic file (type png)
 <use figures/muse_f13451_1232/broadsub_apertures/ap1_original_broadsub_comparison.png>
 Package pdftex.def Info: figures/muse_f13451_1232/broadsub_apertures/ap1_original_broadsub_comparison.png  used on input line 176.
 (pdftex.def)             Requested size: 232.17198pt x 208.66737pt.
-<figures/muse_f13451_1232/broadsub_apertures/ap2_original_broadsub_comparison.png, id=6526, 505.89pt x 505.89pt>
+<figures/muse_f13451_1232/broadsub_apertures/ap2_original_broadsub_comparison.png, id=6524, 505.89pt x 505.89pt>
 File: figures/muse_f13451_1232/broadsub_apertures/ap2_original_broadsub_comparison.png Graphic file (type png)
 <use figures/muse_f13451_1232/broadsub_apertures/ap2_original_broadsub_comparison.png>
 Package pdftex.def Info: figures/muse_f13451_1232/broadsub_apertures/ap2_original_broadsub_comparison.png  used on input line 180.
 (pdftex.def)             Requested size: 218.51521pt x 209.34727pt.
-<figures/muse_f13451_1232/broadsub_apertures/ap3_original_broadsub_comparison.png, id=6528, 505.89pt x 505.89pt>
+<figures/muse_f13451_1232/broadsub_apertures/ap3_original_broadsub_comparison.png, id=6526, 505.89pt x 505.89pt>
 File: figures/muse_f13451_1232/broadsub_apertures/ap3_original_broadsub_comparison.png Graphic file (type png)
 <use figures/muse_f13451_1232/broadsub_apertures/ap3_original_broadsub_comparison.png>
 Package pdftex.def Info: figures/muse_f13451_1232/broadsub_apertures/ap3_original_broadsub_comparison.png  used on input line 183.
 (pdftex.def)             Requested size: 232.17198pt x 212.58482pt.
-<figures/muse_f13451_1232/broadsub_apertures/ap4_original_broadsub_comparison.png, id=6530, 505.89pt x 505.89pt>
+<figures/muse_f13451_1232/broadsub_apertures/ap4_original_broadsub_comparison.png, id=6528, 505.89pt x 505.89pt>
 File: figures/muse_f13451_1232/broadsub_apertures/ap4_original_broadsub_comparison.png Graphic file (type png)
 <use figures/muse_f13451_1232/broadsub_apertures/ap4_original_broadsub_comparison.png>
 Package pdftex.def Info: figures/muse_f13451_1232/broadsub_apertures/ap4_original_broadsub_comparison.png  used on input line 187.
@@ -2715,7 +2716,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [165 <./figures/muse_f13451_1232/broadsub_apertures/ap1_original_broadsub_comparison.png> <./figures/muse_f13451_1232/broadsub_apertures/ap2_original_broadsub_comparison.png> <./figures/muse_f13451_1232/broadsub_apertures/ap3_original_broadsub_comparison.png> <./figures/muse_f13451_1232/broadsub_apertures/ap4_original_broadsub_comparison.png>]
-<figures/muse_f13451_1232/star_outflow_annuli.pdf, id=6826, 468.57089pt x 488.49251pt>
+<figures/muse_f13451_1232/star_outflow_annuli.pdf, id=6824, 468.57089pt x 488.49251pt>
 File: figures/muse_f13451_1232/star_outflow_annuli.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/star_outflow_annuli.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/star_outflow_annuli.pdf  used on input line 200.
@@ -2736,22 +2737,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [166]
-<figures/muse_f13451_1232/w80_map_free.pdf, id=6843, 518.94531pt x 574.37805pt>
+<figures/muse_f13451_1232/w80_map_free.pdf, id=6841, 518.94531pt x 574.37805pt>
 File: figures/muse_f13451_1232/w80_map_free.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/w80_map_free.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/w80_map_free.pdf  used on input line 215.
 (pdftex.def)             Requested size: 235.58965pt x 260.75522pt.
-<figures/muse_f13451_1232/w80_map_nm.pdf, id=6844, 518.94531pt x 574.37805pt>
+<figures/muse_f13451_1232/w80_map_nm.pdf, id=6842, 518.94531pt x 574.37805pt>
 File: figures/muse_f13451_1232/w80_map_nm.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/w80_map_nm.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/w80_map_nm.pdf  used on input line 220.
 (pdftex.def)             Requested size: 195.75163pt x 261.0269pt.
-<figures/muse_f13451_1232/vw_map_free.pdf, id=6846, 522.24823pt x 574.37805pt>
+<figures/muse_f13451_1232/vw_map_free.pdf, id=6844, 522.24823pt x 574.37805pt>
 File: figures/muse_f13451_1232/vw_map_free.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/vw_map_free.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/vw_map_free.pdf  used on input line 228.
 (pdftex.def)             Requested size: 235.58965pt x 259.10753pt.
-<figures/muse_f13451_1232/vw_map_nm.pdf, id=6847, 522.24823pt x 574.37805pt>
+<figures/muse_f13451_1232/vw_map_nm.pdf, id=6845, 522.24823pt x 574.37805pt>
 File: figures/muse_f13451_1232/vw_map_nm.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/vw_map_nm.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/vw_map_nm.pdf  used on input line 233.
@@ -2788,7 +2789,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [169]
-<figures/muse_f13451_1232/halpha_sii_image_apertures.pdf, id=7129, 1064.5129pt x 530.99104pt>
+<figures/muse_f13451_1232/halpha_sii_image_apertures.pdf, id=7127, 1064.5129pt x 530.99104pt>
 File: figures/muse_f13451_1232/halpha_sii_image_apertures.pdf Graphic file (type pdf)
 <use figures/muse_f13451_1232/halpha_sii_image_apertures.pdf>
 Package pdftex.def Info: figures/muse_f13451_1232/halpha_sii_image_apertures.pdf  used on input line 256.
@@ -2813,32 +2814,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.18335pt}.
 
 [171 <./figures/muse_f13451_1232/halpha_sii_image_apertures.pdf>]
-<figures/muse_f13451_1232/line_fits/ap1_oiii.png, id=7201, 476.2593pt x 453.8556pt>
+<figures/muse_f13451_1232/line_fits/ap1_oiii.png, id=7199, 476.2593pt x 453.8556pt>
 File: figures/muse_f13451_1232/line_fits/ap1_oiii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap1_oiii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap1_oiii.png  used on input line 286.
 (pdftex.def)             Requested size: 174.13094pt x 165.93639pt.
-<figures/muse_f13451_1232/line_fits/ap1_oiii_no_nuclear_model.png, id=7202, 476.2593pt x 453.8556pt>
+<figures/muse_f13451_1232/line_fits/ap1_oiii_no_nuclear_model.png, id=7200, 476.2593pt x 453.8556pt>
 File: figures/muse_f13451_1232/line_fits/ap1_oiii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap1_oiii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap1_oiii_no_nuclear_model.png  used on input line 288.
 (pdftex.def)             Requested size: 174.13094pt x 165.93639pt.
-<figures/muse_f13451_1232/line_fits/ap1_halpha.png, id=7203, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap1_halpha.png, id=7201, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap1_halpha.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap1_halpha.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap1_halpha.png  used on input line 290.
 (pdftex.def)             Requested size: 168.32677pt x 164.89557pt.
-<figures/muse_f13451_1232/line_fits/ap1_halpha_no_nuclear_model.png, id=7204, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap1_halpha_no_nuclear_model.png, id=7202, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap1_halpha_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap1_halpha_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap1_halpha_no_nuclear_model.png  used on input line 292.
 (pdftex.def)             Requested size: 168.32677pt x 164.89557pt.
-<figures/muse_f13451_1232/line_fits/ap1_sii.png, id=7205, 461.0826pt x 454.5783pt>
+<figures/muse_f13451_1232/line_fits/ap1_sii.png, id=7203, 461.0826pt x 454.5783pt>
 File: figures/muse_f13451_1232/line_fits/ap1_sii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap1_sii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap1_sii.png  used on input line 294.
 (pdftex.def)             Requested size: 174.13094pt x 171.67336pt.
-<figures/muse_f13451_1232/line_fits/ap1_sii_no_nuclear_model.png, id=7206, 461.0826pt x 454.5783pt>
+<figures/muse_f13451_1232/line_fits/ap1_sii_no_nuclear_model.png, id=7204, 461.0826pt x 454.5783pt>
 File: figures/muse_f13451_1232/line_fits/ap1_sii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap1_sii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap1_sii_no_nuclear_model.png  used on input line 296.
@@ -2851,32 +2852,32 @@ Overfull \hbox (3.51244pt too wide) in paragraph at lines 294--298
 
 LaTeX Warning: Float too large for page by 28.35553pt on input line 300.
 
-<figures/muse_f13451_1232/line_fits/ap2_oiii.png, id=7207, 479.1501pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap2_oiii.png, id=7205, 479.1501pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap2_oiii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap2_oiii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap2_oiii.png  used on input line 314.
 (pdftex.def)             Requested size: 184.37135pt x 173.80028pt.
-<figures/muse_f13451_1232/line_fits/ap2_oiii_no_nuclear_model.png, id=7208, 479.1501pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap2_oiii_no_nuclear_model.png, id=7206, 479.1501pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap2_oiii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap2_oiii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap2_oiii_no_nuclear_model.png  used on input line 316.
 (pdftex.def)             Requested size: 184.37135pt x 173.80028pt.
-<figures/muse_f13451_1232/line_fits/ap2_halpha.png, id=7209, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap2_halpha.png, id=7207, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap2_halpha.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap2_halpha.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap2_halpha.png  used on input line 318.
 (pdftex.def)             Requested size: 178.22585pt x 174.59288pt.
-<figures/muse_f13451_1232/line_fits/ap2_halpha_no_nuclear_model.png, id=7210, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap2_halpha_no_nuclear_model.png, id=7208, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap2_halpha_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap2_halpha_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap2_halpha_no_nuclear_model.png  used on input line 320.
 (pdftex.def)             Requested size: 178.22585pt x 174.59288pt.
-<figures/muse_f13451_1232/line_fits/ap2_sii.png, id=7211, 461.0826pt x 452.4102pt>
+<figures/muse_f13451_1232/line_fits/ap2_sii.png, id=7209, 461.0826pt x 452.4102pt>
 File: figures/muse_f13451_1232/line_fits/ap2_sii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap2_sii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap2_sii.png  used on input line 322.
 (pdftex.def)             Requested size: 184.37135pt x 180.89874pt.
-<figures/muse_f13451_1232/line_fits/ap2_sii_no_nuclear_model.png, id=7212, 461.0826pt x 452.4102pt>
+<figures/muse_f13451_1232/line_fits/ap2_sii_no_nuclear_model.png, id=7210, 461.0826pt x 452.4102pt>
 File: figures/muse_f13451_1232/line_fits/ap2_sii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap2_sii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap2_sii_no_nuclear_model.png  used on input line 324.
@@ -2886,32 +2887,32 @@ Overfull \hbox (1.23662pt too wide) in paragraph at lines 322--326
 [][]   []
  []
 
-<figures/muse_f13451_1232/line_fits/ap3_oiii.png, id=7213, 476.2593pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap3_oiii.png, id=7211, 476.2593pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap3_oiii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap3_oiii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap3_oiii.png  used on input line 342.
 (pdftex.def)             Requested size: 184.37135pt x 174.86168pt.
-<figures/muse_f13451_1232/line_fits/ap3_oiii_no_nuclear_model.png, id=7214, 476.2593pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap3_oiii_no_nuclear_model.png, id=7212, 476.2593pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap3_oiii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap3_oiii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap3_oiii_no_nuclear_model.png  used on input line 344.
 (pdftex.def)             Requested size: 184.37135pt x 174.86168pt.
-<figures/muse_f13451_1232/line_fits/ap3_halpha.png, id=7215, 458.1918pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap3_halpha.png, id=7213, 458.1918pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap3_halpha.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap3_halpha.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap3_halpha.png  used on input line 346.
 (pdftex.def)             Requested size: 178.22585pt x 175.69563pt.
-<figures/muse_f13451_1232/line_fits/ap3_halpha_no_nuclear_model.png, id=7216, 458.1918pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap3_halpha_no_nuclear_model.png, id=7214, 458.1918pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap3_halpha_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap3_halpha_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap3_halpha_no_nuclear_model.png  used on input line 348.
 (pdftex.def)             Requested size: 178.22585pt x 175.69563pt.
-<figures/muse_f13451_1232/line_fits/ap3_sii.png, id=7217, 458.1918pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap3_sii.png, id=7215, 458.1918pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap3_sii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap3_sii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap3_sii.png  used on input line 350.
 (pdftex.def)             Requested size: 184.37135pt x 181.75386pt.
-<figures/muse_f13451_1232/line_fits/ap3_sii_no_nuclear_model.png, id=7218, 458.1918pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap3_sii_no_nuclear_model.png, id=7216, 458.1918pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap3_sii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap3_sii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap3_sii_no_nuclear_model.png  used on input line 352.
@@ -2921,32 +2922,32 @@ Overfull \hbox (1.23662pt too wide) in paragraph at lines 350--354
 [][]   []
  []
 
-<figures/muse_f13451_1232/line_fits/ap4_oiii.png, id=7219, 479.1501pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap4_oiii.png, id=7217, 479.1501pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap4_oiii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap4_oiii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap4_oiii.png  used on input line 370.
 (pdftex.def)             Requested size: 184.37135pt x 173.80028pt.
-<figures/muse_f13451_1232/line_fits/ap4_oiii_no_nuclear_model.png, id=7220, 479.1501pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap4_oiii_no_nuclear_model.png, id=7218, 479.1501pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap4_oiii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap4_oiii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap4_oiii_no_nuclear_model.png  used on input line 372.
 (pdftex.def)             Requested size: 184.37135pt x 173.80028pt.
-<figures/muse_f13451_1232/line_fits/ap4_halpha.png, id=7221, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap4_halpha.png, id=7219, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap4_halpha.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap4_halpha.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap4_halpha.png  used on input line 374.
 (pdftex.def)             Requested size: 178.22585pt x 174.59288pt.
-<figures/muse_f13451_1232/line_fits/ap4_halpha_no_nuclear_model.png, id=7222, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap4_halpha_no_nuclear_model.png, id=7220, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap4_halpha_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap4_halpha_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap4_halpha_no_nuclear_model.png  used on input line 376.
 (pdftex.def)             Requested size: 178.22585pt x 174.59288pt.
-<figures/muse_f13451_1232/line_fits/ap4_sii.png, id=7223, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap4_sii.png, id=7221, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap4_sii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap4_sii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap4_sii.png  used on input line 378.
 (pdftex.def)             Requested size: 184.37135pt x 180.60976pt.
-<figures/muse_f13451_1232/line_fits/ap4_sii_no_nuclear_model.png, id=7224, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap4_sii_no_nuclear_model.png, id=7222, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap4_sii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap4_sii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap4_sii_no_nuclear_model.png  used on input line 380.
@@ -2956,32 +2957,32 @@ Overfull \hbox (1.23662pt too wide) in paragraph at lines 378--382
 [][]   []
  []
 
-<figures/muse_f13451_1232/line_fits/ap5_oiii.png, id=7225, 466.8642pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap5_oiii.png, id=7223, 466.8642pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap5_oiii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap5_oiii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap5_oiii.png  used on input line 398.
 (pdftex.def)             Requested size: 184.37135pt x 178.3767pt.
-<figures/muse_f13451_1232/line_fits/ap5_oiii_no_nuclear_model.png, id=7226, 466.8642pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap5_oiii_no_nuclear_model.png, id=7224, 466.8642pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap5_oiii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap5_oiii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap5_oiii_no_nuclear_model.png  used on input line 400.
 (pdftex.def)             Requested size: 184.37135pt x 178.3767pt.
-<figures/muse_f13451_1232/line_fits/ap5_halpha.png, id=7227, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap5_halpha.png, id=7225, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap5_halpha.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap5_halpha.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap5_halpha.png  used on input line 402.
 (pdftex.def)             Requested size: 178.22585pt x 174.59288pt.
-<figures/muse_f13451_1232/line_fits/ap5_halpha_no_nuclear_model.png, id=7228, 461.0826pt x 451.6875pt>
+<figures/muse_f13451_1232/line_fits/ap5_halpha_no_nuclear_model.png, id=7226, 461.0826pt x 451.6875pt>
 File: figures/muse_f13451_1232/line_fits/ap5_halpha_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap5_halpha_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap5_halpha_no_nuclear_model.png  used on input line 404.
 (pdftex.def)             Requested size: 178.22585pt x 174.59288pt.
-<figures/muse_f13451_1232/line_fits/ap5_sii.png, id=7229, 461.0826pt x 454.5783pt>
+<figures/muse_f13451_1232/line_fits/ap5_sii.png, id=7227, 461.0826pt x 454.5783pt>
 File: figures/muse_f13451_1232/line_fits/ap5_sii.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap5_sii.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap5_sii.png  used on input line 406.
 (pdftex.def)             Requested size: 184.37135pt x 181.76566pt.
-<figures/muse_f13451_1232/line_fits/ap5_sii_no_nuclear_model.png, id=7230, 461.0826pt x 454.5783pt>
+<figures/muse_f13451_1232/line_fits/ap5_sii_no_nuclear_model.png, id=7228, 461.0826pt x 454.5783pt>
 File: figures/muse_f13451_1232/line_fits/ap5_sii_no_nuclear_model.png Graphic file (type png)
 <use figures/muse_f13451_1232/line_fits/ap5_sii_no_nuclear_model.png>
 Package pdftex.def Info: figures/muse_f13451_1232/line_fits/ap5_sii_no_nuclear_model.png  used on input line 408.
@@ -3534,12 +3535,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [225]
-<figures/heii_hb_oiii_photoionisation_modelling/3ne_a_vary_10z.pdf, id=8990, 505.89pt x 505.89pt>
+<figures/heii_hb_oiii_photoionisation_modelling/3ne_a_vary_10z.pdf, id=8988, 505.89pt x 505.89pt>
 File: figures/heii_hb_oiii_photoionisation_modelling/3ne_a_vary_10z.pdf Graphic file (type pdf)
 <use figures/heii_hb_oiii_photoionisation_modelling/3ne_a_vary_10z.pdf>
 Package pdftex.def Info: figures/heii_hb_oiii_photoionisation_modelling/3ne_a_vary_10z.pdf  used on input line 15.
 (pdftex.def)             Requested size: 223.07211pt x 223.07088pt.
-<figures/heii_hb_oiii_photoionisation_modelling/3ne_15a_z_vary.pdf, id=8991, 505.89pt x 505.89pt>
+<figures/heii_hb_oiii_photoionisation_modelling/3ne_15a_z_vary.pdf, id=8989, 505.89pt x 505.89pt>
 File: figures/heii_hb_oiii_photoionisation_modelling/3ne_15a_z_vary.pdf Graphic file (type pdf)
 <use figures/heii_hb_oiii_photoionisation_modelling/3ne_15a_z_vary.pdf>
 Package pdftex.def Info: figures/heii_hb_oiii_photoionisation_modelling/3ne_15a_z_vary.pdf  used on input line 22.
@@ -3554,7 +3555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--27
 
  []
 
-<figures/heii_hb_oiii_photoionisation_modelling/ne_vary.pdf, id=8992, 505.89pt x 505.89pt>
+<figures/heii_hb_oiii_photoionisation_modelling/ne_vary.pdf, id=8990, 505.89pt x 505.89pt>
 File: figures/heii_hb_oiii_photoionisation_modelling/ne_vary.pdf Graphic file (type pdf)
 <use figures/heii_hb_oiii_photoionisation_modelling/ne_vary.pdf>
 Package pdftex.def Info: figures/heii_hb_oiii_photoionisation_modelling/ne_vary.pdf  used on input line 30.
@@ -3593,17 +3594,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 ]
 Appendix C.
 (./chapters/appendices/tr_grid_shock_modelling/tr_grid_shock_modelling.tex [233]
-<figures/tr_grid_shock_modelling/tr_shock_ddd_bn2.pdf, id=9216, 505.89pt x 505.89pt>
+<figures/tr_grid_shock_modelling/tr_shock_ddd_bn2.pdf, id=9214, 505.89pt x 505.89pt>
 File: figures/tr_grid_shock_modelling/tr_shock_ddd_bn2.pdf Graphic file (type pdf)
 <use figures/tr_grid_shock_modelling/tr_shock_ddd_bn2.pdf>
 Package pdftex.def Info: figures/tr_grid_shock_modelling/tr_shock_ddd_bn2.pdf  used on input line 11.
 (pdftex.def)             Requested size: 455.24411pt x 455.25046pt.
-<figures/tr_grid_shock_modelling/tr_shocks_ddd_bn2_bn4.pdf, id=9221, 505.89pt x 505.89pt>
+<figures/tr_grid_shock_modelling/tr_shocks_ddd_bn2_bn4.pdf, id=9219, 505.89pt x 505.89pt>
 File: figures/tr_grid_shock_modelling/tr_shocks_ddd_bn2_bn4.pdf Graphic file (type pdf)
 <use figures/tr_grid_shock_modelling/tr_shocks_ddd_bn2_bn4.pdf>
 Package pdftex.def Info: figures/tr_grid_shock_modelling/tr_shocks_ddd_bn2_bn4.pdf  used on input line 18.
 (pdftex.def)             Requested size: 455.24411pt x 455.25046pt.
-<figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf, id=9224, 505.89pt x 505.89pt>
+<figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf, id=9222, 505.89pt x 505.89pt>
 File: figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf Graphic file (type pdf)
 <use figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf>
 Package pdftex.def Info: figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf  used on input line 24.
@@ -3642,21 +3643,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [237 <./figures/tr_grid_shock_modelling/tr_shocks_ddd_v_bn2_bn4.pdf>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 22012 strings out of 477975
- 398101 string characters out of 5839281
+ 22010 strings out of 477975
+ 398080 string characters out of 5839281
  1899330 words of memory out of 5000000
- 40668 multiletter control sequences out of 15000+600000
- 531472 words of font info for 105 fonts, out of 8000000 for 9000
+ 40667 multiletter control sequences out of 15000+600000
+ 531164 words of font info for 104 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  108i,14n,131p,2836b,1369s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{chapter:\040definitions} has been referenced but does not exist, replaced by a fixed one
 
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (259 pages, 11983136 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (259 pages, 11961360 bytes).
 PDF statistics:
- 10008 PDF objects out of 10688 (max. 8388607)
- 7368 compressed objects within 74 object streams
+ 10002 PDF objects out of 10688 (max. 8388607)
+ 7364 compressed objects within 74 object streams
  990 named destinations out of 1000 (max. 500000)
  1589 words of extra memory for PDF output out of 10000 (max. 10000000)
 
