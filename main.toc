@@ -86,7 +86,7 @@
 \contentsline {subsubsection}{Mass outflow rates, kinetic powers, and coupling efficiencies}{114}{section*.92}%
 \contentsline {section}{\numberline {3.4}Discussion}{116}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}The outflow ionisation and acceleration mechanisms in the NLRs of NGC 1068 and NGC 4151}{116}{subsection.3.4.1}%
-\contentsline {subsubsection}{Matter-bounded ionisation and the acceleration mechanism in NGC 1068}{117}{section*.94}%
+\contentsline {subsubsection}{Matter-bounded ionisation and the acceleration mechanism in NGC 1068}{116}{section*.94}%
 \contentsline {subsubsection}{Shock-ionisation and acceleration in NGC 4151}{118}{section*.95}%
 \contentsline {subsection}{\numberline {3.4.2}The effect of ionisation mechanisms on density diagnostics}{118}{subsection.3.4.2}%
 \contentsline {subsubsection}{The impact of matter-bounded photoionisation}{119}{section*.96}%
