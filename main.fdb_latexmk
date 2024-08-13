@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1723542219.60473 "main.aux" "main.bbl" "main" 1723551432.94643 0
+["bibtex main"] 1723553523.08969 "main.aux" "main.bbl" "main" 1723553599.89107 0
   "./precise_outflow_diagnostics.bib" 1722593162.68308 398275 47ef03a6a545883c0a4f156de687b0a3 ""
   "/usr/share/texmf-dist/bibtex/bst/mnras/mnras.bst" 1716849630 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "main.aux" 1723551432.39176 221781 8003329fe5fd64df05ef5017ad7a8057 "pdflatex"
+  "main.aux" 1723553599.48436 221781 218d126d3fa1d610ecb71df58c29d022 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1723551423.48223 "main.tex" "main.pdf" "main" 1723551432.94693 0
+["pdflatex"] 1723553590.80876 "main.tex" "main.pdf" "main" 1723553599.89152 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -179,8 +179,8 @@
   "chapters/appendices/tr_grid_shock_modelling/tr_grid_shock_modelling.tex" 1716216161.61708 5918 70d639b5c1221946b0609686f8c04cd0 ""
   "chapters/conclusions_and_future_work/conclusions_and_future_work.tex" 1716216161.62508 41125 61d39de9b426133c49a20077d60ff67d ""
   "chapters/declaration/declaration.tex" 1716216161.62908 941 8705218b90f29cb2d55f82877ef5033c ""
-  "chapters/definitions/definitions.tex" 1716216161.62908 3795 2384ec462d6b629f078c820130a92882 ""
-  "chapters/introduction/introduction.tex" 1723551422.465 104186 3ff41299722fb74e013dba8874f8d98e ""
+  "chapters/definitions/definitions.tex" 1723551551.99953 3797 d57213a6fee73131be21e03c5977c5c3 ""
+  "chapters/introduction/introduction.tex" 1723553448.30909 104215 e0b0ff92bfcce94f6965b9875691a17f ""
   "chapters/muse_f13451+1232/muse_f13451_1232.tex" 1723551306.97047 99645 963407a37987d8b5ca4cfdb1aa75be62 ""
   "chapters/stis_seyferts/stis_seyferts.tex" 1723541603.12731 106006 7b98cd01fbc482c00b8a51115248699f ""
   "chapters/title_page/main_quote.tex" 1716216161.65308 331 c4ad15e85bc716d1fbf5f59bc856d423 ""
@@ -290,12 +290,12 @@
   "figures/xshooter_ic5063/tr_balmer_reddening.pdf" 1716216165.95709 10885 372b577dc2630ce440162ffedb54b61c ""
   "figures/xshooter_ic5063/vmin_vmax.png" 1716216165.98909 406994 afd6537ce0cee8c89339fccf4f42b3fb ""
   "figures/xshooter_ic5063/vmin_widths.pdf" 1716216165.98909 15540 d68011cc36a94030177c89b323d5c5e3 ""
-  "main.aux" 1723551432.39176 221781 8003329fe5fd64df05ef5017ad7a8057 "pdflatex"
-  "main.bbl" 1723542219.6822 119219 2cda0244258775af8ec700a5adb435ba "bibtex main"
-  "main.lof" 1723551432.41843 15227 79ee7f754f8276ebe17c08f1ec70bfe7 "pdflatex"
-  "main.lot" 1723551432.41843 5970 f7bff6528d63587c1ad18acdbfe12435 "pdflatex"
-  "main.tex" 1716216166.92109 7583 6e390654ade355885fcaf13a71e8f0c5 ""
-  "main.toc" 1723551432.41843 16785 aceb138d3adb391f09d837f2936c98a6 "pdflatex"
+  "main.aux" 1723553599.48436 221781 218d126d3fa1d610ecb71df58c29d022 "pdflatex"
+  "main.bbl" 1723553523.16008 119219 2cda0244258775af8ec700a5adb435ba "bibtex main"
+  "main.lof" 1723553599.51102 15227 79ee7f754f8276ebe17c08f1ec70bfe7 "pdflatex"
+  "main.lot" 1723553599.51102 5970 f7bff6528d63587c1ad18acdbfe12435 "pdflatex"
+  "main.tex" 1723553590.40425 7624 9d9b175e16d6296e260de33160ff43e6 ""
+  "main.toc" 1723553599.51102 16785 aceb138d3adb391f09d837f2936c98a6 "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
