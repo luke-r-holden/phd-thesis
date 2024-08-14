@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1723553523.08969 "main.aux" "main.bbl" "main" 1723553599.89107 0
+["bibtex main"] 1723553523.08969 "main.aux" "main.bbl" "main" 1723643479.25131 0
   "./precise_outflow_diagnostics.bib" 1722593162.68308 398275 47ef03a6a545883c0a4f156de687b0a3 ""
   "/usr/share/texmf-dist/bibtex/bst/mnras/mnras.bst" 1716849630 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "main.aux" 1723553599.48436 221781 218d126d3fa1d610ecb71df58c29d022 "pdflatex"
+  "main.aux" 1723643478.8356 221781 218d126d3fa1d610ecb71df58c29d022 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1723553590.80876 "main.tex" "main.pdf" "main" 1723553599.89152 0
+["pdflatex"] 1723643470.35286 "main.tex" "main.pdf" "main" 1723643479.25175 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -127,7 +127,6 @@
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1716849630 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1716849630 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def" 1716849630 19448 1e988b341dda20961a6b931bcde55519 ""
-  "/usr/share/texmf-dist/tex/latex/graphics/color.sty" 1716849630 7233 e46ce9241d2b2ca2a78155475fdd557a ""
   "/usr/share/texmf-dist/tex/latex/graphics/graphics.sty" 1716849630 18387 8f900a490197ebaf93c02ae9476d4b09 ""
   "/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty" 1716849630 8010 a8d949cbdbc5c983593827c9eec252e1 ""
   "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1716849630 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
@@ -290,12 +289,12 @@
   "figures/xshooter_ic5063/tr_balmer_reddening.pdf" 1716216165.95709 10885 372b577dc2630ce440162ffedb54b61c ""
   "figures/xshooter_ic5063/vmin_vmax.png" 1716216165.98909 406994 afd6537ce0cee8c89339fccf4f42b3fb ""
   "figures/xshooter_ic5063/vmin_widths.pdf" 1716216165.98909 15540 d68011cc36a94030177c89b323d5c5e3 ""
-  "main.aux" 1723553599.48436 221781 218d126d3fa1d610ecb71df58c29d022 "pdflatex"
+  "main.aux" 1723643478.8356 221781 218d126d3fa1d610ecb71df58c29d022 "pdflatex"
   "main.bbl" 1723553523.16008 119219 2cda0244258775af8ec700a5adb435ba "bibtex main"
-  "main.lof" 1723553599.51102 15227 79ee7f754f8276ebe17c08f1ec70bfe7 "pdflatex"
-  "main.lot" 1723553599.51102 5970 f7bff6528d63587c1ad18acdbfe12435 "pdflatex"
-  "main.tex" 1723553590.40425 7624 9d9b175e16d6296e260de33160ff43e6 ""
-  "main.toc" 1723553599.51102 16785 aceb138d3adb391f09d837f2936c98a6 "pdflatex"
+  "main.lof" 1723643478.86226 15227 79ee7f754f8276ebe17c08f1ec70bfe7 "pdflatex"
+  "main.lot" 1723643478.86226 5970 f7bff6528d63587c1ad18acdbfe12435 "pdflatex"
+  "main.tex" 1723643468.33886 7625 a0a4bbc7badcdfb8850e6a5f2e4f6c29 ""
+  "main.toc" 1723643478.86226 16785 aceb138d3adb391f09d837f2936c98a6 "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
